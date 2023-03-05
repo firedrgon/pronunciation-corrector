@@ -1,0 +1,2346 @@
+{
+    "name": "程序员必备的600个英语词汇",
+    "description": "https://www.cnblogs.com/wyboooo/p/9643469.html",
+    "words": [
+        {
+            "word": "application",
+            "meaning": "应用程式,应用、应用程序",
+            "correct": "/ ˌæplɪˈkeɪʃ(ə)n /,/ ˌæplɪˈkeɪʃ(ə)n /"
+        },
+        {
+            "word": "application",
+            "meaning": "framework,应用程式框架、应用框架,应用程序框架",
+            "correct": "/ ˌæplɪˈkeɪʃ(ə)n /,/ ˌæplɪˈkeɪʃ(ə)n /"
+        },
+        {
+            "word": "architecture",
+            "meaning": "架构、系统架构,体系结构",
+            "correct": "/ ˈɑːkɪtektʃə(r) /,/ ˈɑːrkɪtektʃər /"
+        },
+        {
+            "word": "argument",
+            "meaning": "引数(传给函式的值)。叁见,parameter,叁数、实质叁数、实叁、自变量",
+            "correct": "/ ˈɑːɡjumənt /,/ ˈɑːrɡjumənt /"
+        },
+        {
+            "word": "array",
+            "meaning": "阵列,数组",
+            "correct": "/ əˈreɪ /,/ əˈreɪ /"
+        },
+        {
+            "word": "arrow",
+            "meaning": "operator,arrow(箭头)运算子,箭头操作符",
+            "correct": "/ ˈærəʊ /,/ ˈæroʊ /"
+        },
+        {
+            "word": "assembly",
+            "meaning": "装配件",
+            "correct": "/ əˈsembli /,/ əˈsembli /"
+        },
+        {
+            "word": "assembly",
+            "meaning": "language,组合语言,汇编语言",
+            "correct": "/ əˈsembli /,/ əˈsembli /"
+        },
+        {
+            "word": "assert(ion)",
+            "meaning": "断言",
+            "correct": ""
+        },
+        {
+            "word": "assign",
+            "meaning": "指派、指定、设值、赋值,赋值",
+            "correct": "/ əˈsaɪn /,/ əˈsaɪn /"
+        },
+        {
+            "word": "assignment",
+            "meaning": "指派、指定,赋值、分配",
+            "correct": "/ əˈsaɪnmənt /,/ əˈsaɪnmənt /"
+        },
+        {
+            "word": "assignment",
+            "meaning": "operator,指派(赋值)运算子,=,赋值操作符",
+            "correct": "/ əˈsaɪnmənt /,/ əˈsaɪnmənt /"
+        },
+        {
+            "word": "associated",
+            "meaning": "相应的、相关的,相关的、关联、相应的",
+            "correct": "/ əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd /,/ əˈsoʊsieɪtɪd /"
+        },
+        {
+            "word": "associative",
+            "meaning": "container,关联式容器(对应,sequential,container)关联式容器",
+            "correct": "/ əˈsəʊsiətɪv /,/ əˈsoʊsieɪtɪv /"
+        },
+        {
+            "word": "atomic",
+            "meaning": "不可分割的,原子的",
+            "correct": "/ əˈtɒmɪk /,/ əˈtɑːmɪk /"
+        },
+        {
+            "word": "attribute",
+            "meaning": "属性,属性、特性",
+            "correct": "/ əˈtrɪbjuːt /,/ əˈtrɪbjuːt /"
+        },
+        {
+            "word": "audio",
+            "meaning": "音讯,音频",
+            "correct": "/ ˈɔːdiəʊ /,/ ˈɔːdioʊ /"
+        },
+        {
+            "word": "a.i.",
+            "meaning": "人工智慧,人工智能",
+            "correct": ""
+        },
+        {
+            "word": "background",
+            "meaning": "背景,背景(用於图形着色)",
+            "correct": "/ ˈbækɡraʊnd /,/ ˈbækɡraʊnd /"
+        },
+        {
+            "word": "backward",
+            "meaning": "compatible,回溯相容,向下兼容",
+            "correct": "/ ˈbækwəd /,/ ˈbækwərd /"
+        },
+        {
+            "word": "bandwidth",
+            "meaning": "频宽,带宽",
+            "correct": "/ ˈbændwɪdθ; ˈbændwɪtθ /,/ ˈbændwɪdθˌˈbændwɪtθ /"
+        },
+        {
+            "word": "base",
+            "meaning": "class,基础类别,基类",
+            "correct": "/ beɪs /,/ beɪs /"
+        },
+        {
+            "word": "base",
+            "meaning": "type,基础型别,(等同於,base,class)",
+            "correct": "/ beɪs /,/ beɪs /"
+        },
+        {
+            "word": "batch",
+            "meaning": "批次(意思是整批作业),批处理",
+            "correct": "/ bætʃ /,/ bætʃ /"
+        },
+        {
+            "word": "benefit",
+            "meaning": "利益,收益",
+            "correct": "/ ˈbenɪfɪt /,/ ˈbenɪfɪt /"
+        },
+        {
+            "word": "best",
+            "meaning": "viable,function,最佳可行函式,最佳可行函式",
+            "correct": "/ best /,/ best /"
+        },
+        {
+            "word": "binary",
+            "meaning": "search,二分搜寻法,二分查找",
+            "correct": "/ ˈbaɪnəri /,/ ˈbaɪnəri /"
+        },
+        {
+            "word": "binary",
+            "meaning": "tree,二元树,二叉树",
+            "correct": "/ ˈbaɪnəri /,/ ˈbaɪnəri /"
+        },
+        {
+            "word": "binary",
+            "meaning": "function,二元函式,双叁函数",
+            "correct": "/ ˈbaɪnəri /,/ ˈbaɪnəri /"
+        },
+        {
+            "word": "binary",
+            "meaning": "operator,二元运算子,二元操作符",
+            "correct": "/ ˈbaɪnəri /,/ ˈbaɪnəri /"
+        },
+        {
+            "word": "binding",
+            "meaning": "系结,绑定",
+            "correct": "/ ˈbaɪndɪŋ /,/ ˈbaɪndɪŋ /"
+        },
+        {
+            "word": "bit",
+            "meaning": "位元,位",
+            "correct": "/ bɪt /,/ bɪt /"
+        },
+        {
+            "word": "bit",
+            "meaning": "field,位元栏,位域",
+            "correct": "/ bɪt /,/ bɪt /"
+        },
+        {
+            "word": "bitmap",
+            "meaning": "位元图,位图",
+            "correct": "/ ˈbɪtmæp /,/ ˈbɪtmæp /"
+        },
+        {
+            "word": "bitwise",
+            "meaning": "以,bit,为单元逐一┅",
+            "correct": ""
+        },
+        {
+            "word": "bitwise",
+            "meaning": "copy,以,bit,为单元进行复制;位元逐一复制,位拷贝",
+            "correct": ""
+        },
+        {
+            "word": "block",
+            "meaning": "区块,区段,块、区块、语句块",
+            "correct": "/ blɒk /,/ blɑːk /"
+        },
+        {
+            "word": "boolean",
+            "meaning": "布林值(真假值，true,或,false)布尔值",
+            "correct": "/ ˈbuːliən /,/ ˈbuːliən /"
+        },
+        {
+            "word": "border",
+            "meaning": "边框、框线,边框",
+            "correct": "/ ˈbɔːdə(r) /,/ ˈbɔːrdər /"
+        },
+        {
+            "word": "brace(curly",
+            "meaning": "brace),大括弧、大括号,花括弧、花括号",
+            "correct": ""
+        },
+        {
+            "word": "bracket(square",
+            "meaning": "brakcet),中括弧、中括号,方括弧、方括号",
+            "correct": ""
+        },
+        {
+            "word": "breakpoint",
+            "meaning": "中断点,断点",
+            "correct": "/ ˈbreɪkˌpɔɪnt /,/ ˈbreɪkˌpɔɪnt /"
+        },
+        {
+            "word": "build",
+            "meaning": "建造、构筑、建置(ms,用语)",
+            "correct": "/ bɪld /,/ bɪld /"
+        },
+        {
+            "word": "build-in",
+            "meaning": "内建,内置",
+            "correct": "/ bɪld ɪn /"
+        },
+        {
+            "word": "bus",
+            "meaning": "汇流排,总线",
+            "correct": "/ bʌs /,/ bʌs /"
+        },
+        {
+            "word": "business",
+            "meaning": "商务,业务,业务",
+            "correct": "/ ˈbɪznəs /,/ ˈbɪznəs /"
+        },
+        {
+            "word": "buttons",
+            "meaning": "按钮,按钮",
+            "correct": "/ ˈbʌtnz /,/ ˈbʌtnz /"
+        },
+        {
+            "word": "byte",
+            "meaning": "位元组(由,8,bits,组成),字节",
+            "correct": "/ baɪt /,/ baɪt /"
+        },
+        {
+            "word": "cache",
+            "meaning": "快取,高速缓存",
+            "correct": "/ kæʃ /,/ kæʃ /"
+        },
+        {
+            "word": "call",
+            "meaning": "呼叫、叫用,调用",
+            "correct": "/ kɔːl /,/ kɔːl /"
+        },
+        {
+            "word": "callback",
+            "meaning": "回呼,回调",
+            "correct": "/ ˈkɔːlbæk /,/ ˈkɔːlbæk /"
+        },
+        {
+            "word": "call",
+            "meaning": "operator,call(函式呼叫)运算子调用操作符",
+            "correct": "/ kɔːl /,/ kɔːl /"
+        },
+        {
+            "word": "candidate",
+            "meaning": "function,候选函式,候选函数",
+            "correct": "/ ˈkændɪdət /,/ ˈkændɪdət /"
+        },
+        {
+            "word": "chain",
+            "meaning": "串链(例,chain,of,function,calls),链",
+            "correct": "/ tʃeɪn /,/ tʃeɪn /"
+        },
+        {
+            "word": "character",
+            "meaning": "字元,字符",
+            "correct": "/ ˈkærəktə(r) /,/ ˈkærəktər /"
+        },
+        {
+            "word": "check",
+            "meaning": "box,核取方块,(i.e.,check,button),复选框",
+            "correct": "/ tʃek /,/ tʃek /"
+        },
+        {
+            "word": "checked",
+            "meaning": "exception,可控式异常(java)",
+            "correct": "/ tʃekt /,/ tʃekt /"
+        },
+        {
+            "word": "check",
+            "meaning": "button,方钮,(i.e.,check,box),复选按钮",
+            "correct": "/ tʃek /,/ tʃek /"
+        },
+        {
+            "word": "child",
+            "meaning": "class,子类别(或称为derived,class,,subtype),子类",
+            "correct": "/ tʃaɪld /,/ tʃaɪld /"
+        },
+        {
+            "word": "class",
+            "meaning": "类别,类",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "body,类别本体,类体",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "declaration,类别宣告、类别宣告式,类声明",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "definition,类别定义、类别定义式,类定义",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "derivation,list,类别衍化列,类继承列表",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "head,类别表头,类头",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "hierarchy,类别继承体系,,类别阶层,类层次体系",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "library,类别程式库、类别库,类库",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "template,类别模板、类别范本,类模板",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "template,partial,specializations",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "class",
+            "meaning": "template,specializations",
+            "correct": "/ klɑːs /,/ klæs /"
+        },
+        {
+            "word": "cleanup",
+            "meaning": "清理、善后,清理、清除",
+            "correct": "/ ˈkliːnʌp /,/ ˈklinˌʌp /"
+        },
+        {
+            "word": "client",
+            "meaning": "客端、客户端、客户,客户",
+            "correct": "/ ˈklaɪənt /,/ ˈklaɪənt /"
+        },
+        {
+            "word": "client-server",
+            "meaning": "主从架构,客户/服务器",
+            "correct": "/ ˌklaɪənt ˈsɜːvə(r) /,/ ˌklaɪənt ˈsɜːrvər /"
+        },
+        {
+            "word": "clipboard",
+            "meaning": "剪贴簿,剪贴板",
+            "correct": "/ ˈklɪpbɔːd /,/ ˈklɪpbɔːrd /"
+        },
+        {
+            "word": "clone",
+            "meaning": "复制,克隆",
+            "correct": "/ kləʊn /,/ kloʊn /"
+        },
+        {
+            "word": "collection",
+            "meaning": "群集,集合",
+            "correct": "/ kəˈlekʃ(ə)n /,/ kəˈlekʃ(ə)n /"
+        },
+        {
+            "word": "combo",
+            "meaning": "box,复合方块、复合框,组合框",
+            "correct": "/ ˈkɒmbəʊ /,/ ˈkɑːmboʊ /"
+        },
+        {
+            "word": "command",
+            "meaning": "line,命令列,命令行",
+            "correct": "/ kəˈmɑːnd /,/ kəˈmænd /"
+        },
+        {
+            "word": "communication",
+            "meaning": "通讯,通讯",
+            "correct": "/ kəˌmjuːnɪˈkeɪʃ(ə)n /,/ kəˌmjuːnɪˈkeɪʃn /"
+        },
+        {
+            "word": "compatible",
+            "meaning": "相容,兼容",
+            "correct": "/ kəmˈpætəb(ə)l /,/ kəmˈpætəb(ə)l /"
+        },
+        {
+            "word": "compile",
+            "meaning": "time,编译期,编译期、编译时",
+            "correct": "/ kəmˈpaɪl /,/ kəmˈpaɪl /"
+        },
+        {
+            "word": "compiler",
+            "meaning": "编译器,编译器",
+            "correct": "/ kəmˈpaɪlə(r) /,/ kəmˈpaɪlər /"
+        },
+        {
+            "word": "component",
+            "meaning": "组件,组件",
+            "correct": "/ kəmˈpəʊnənt /,/ kəmˈpoʊnənt /"
+        },
+        {
+            "word": "composition",
+            "meaning": "复合、合成、组合,组合",
+            "correct": "/ ˌkɒmpəˈzɪʃ(ə)n /,/ ˌkɑːmpəˈzɪʃ(ə)n /"
+        },
+        {
+            "word": "computer 电脑、计算机 计算机、电脑",
+            "meaning": "",
+            "correct": ""
+        },
+        {
+            "word": "concept",
+            "meaning": "概念,概念",
+            "correct": "/ ˈkɒnsept /,/ ˈkɑːnsept /"
+        },
+        {
+            "word": "concrete",
+            "meaning": "具象的,实在的",
+            "correct": "/ ˈkɒŋkriːt /,/ ˈkɑːnkriːt /"
+        },
+        {
+            "word": "concurrent",
+            "meaning": "并行,并发",
+            "correct": "/ kənˈkʌrənt /,/ kənˈkɜːrənt /"
+        },
+        {
+            "word": "configuration",
+            "meaning": "组态,配置",
+            "correct": "/ kənˌfɪɡəˈreɪʃ(ə)n /,/ kənˌfɪɡjəˈreɪʃ(ə)n /"
+        },
+        {
+            "word": "connection",
+            "meaning": "连接，连线(网络,资料库),连接",
+            "correct": "/ kəˈnekʃn /,/ kəˈnekʃ(ə)n /"
+        },
+        {
+            "word": "constraint",
+            "meaning": "约束(条件)",
+            "correct": "/ kənˈstreɪnt /,/ kənˈstreɪnt /"
+        },
+        {
+            "word": "construct",
+            "meaning": "构件,构件",
+            "correct": "/ kənˈstrʌkt /,/ kənˈstrʌkt /"
+        },
+        {
+            "word": "container",
+            "meaning": "容器,容器",
+            "correct": "/ kənˈteɪnə(r) /,/ kənˈteɪnər /"
+        },
+        {
+            "word": "containment",
+            "meaning": "内含,包容",
+            "correct": "/ kənˈteɪnmənt /,/ kənˈteɪnmənt /"
+        },
+        {
+            "word": "context",
+            "meaning": "背景关系、周遭环境、上下脉络,环境、上下文",
+            "correct": "/ ˈkɒntekst /,/ ˈkɑːntekst /"
+        },
+        {
+            "word": "control",
+            "meaning": "控制元件、控件,控件",
+            "correct": "/ kənˈtrəʊl /,/ kənˈtroʊl /"
+        },
+        {
+            "word": "console",
+            "meaning": "主控台,控制台",
+            "correct": "/ kənˈsəʊl /,/ kənˈsoʊl /"
+        },
+        {
+            "word": "const",
+            "meaning": "常数(constant,的缩写，c++,关键字)",
+            "correct": "/ ˈkɒnst /,/ ˈkɒnst /"
+        },
+        {
+            "word": "constant",
+            "meaning": "常数(相对於,variable),常量",
+            "correct": "/ ˈkɒnstənt /,/ ˈkɑːnstənt /"
+        },
+        {
+            "word": "constructor(ctor)",
+            "meaning": "建构式,构造函数",
+            "correct": ""
+        },
+        {
+            "word": "copy",
+            "meaning": "(v),复制、拷贝,拷贝",
+            "correct": "/ ˈkɒpi /,/ ˈkɑːpi /"
+        },
+        {
+            "word": "copy",
+            "meaning": "(n),复件,,副本",
+            "correct": "/ ˈkɒpi /,/ ˈkɑːpi /"
+        },
+        {
+            "word": "cover",
+            "meaning": "涵盖,覆盖",
+            "correct": "/ ˈkʌvə(r) /,/ ˈkʌvər /"
+        },
+        {
+            "word": "create",
+            "meaning": "创建、建立、产生、生成,创建",
+            "correct": "/ kriˈeɪt /,/ kriˈeɪt /"
+        },
+        {
+            "word": "creation",
+            "meaning": "产生、生成,创建",
+            "correct": "/ kriˈeɪʃ(ə)n /,/ kriˈeɪʃ(ə)n /"
+        },
+        {
+            "word": "cursor",
+            "meaning": "游标,光标",
+            "correct": "/ ˈkɜːsə(r) /,/ ˈkɜːrsər /"
+        },
+        {
+            "word": "custom",
+            "meaning": "订制、自定,定制",
+            "correct": "/ ˈkʌstəm /,/ ˈkʌstəm /"
+        },
+        {
+            "word": "data",
+            "meaning": "资料,数据",
+            "correct": "/ ˈdeɪtə /,/ ˈdeɪtə /"
+        },
+        {
+            "word": "database",
+            "meaning": "资料库,数据库",
+            "correct": "/ ˈdeɪtəbeɪs /,/ ˈdeɪtəbeɪs /"
+        },
+        {
+            "word": "database",
+            "meaning": "schema,数据库结构纲目",
+            "correct": "/ ˈdeɪtəbeɪs /,/ ˈdeɪtəbeɪs /"
+        },
+        {
+            "word": "data",
+            "meaning": "member,资料成员、成员变数,数据成员、成员变量",
+            "correct": "/ ˈdeɪtə /,/ ˈdeɪtə /"
+        },
+        {
+            "word": "data",
+            "meaning": "structure,资料结构,数据结构",
+            "correct": "/ ˈdeɪtə /,/ ˈdeɪtə /"
+        },
+        {
+            "word": "datagram",
+            "meaning": "资料元,数据报文",
+            "correct": "/ ˈdeɪtəɡræm /,/ ˈdetəˌɡræm /"
+        },
+        {
+            "word": "dead",
+            "meaning": "lock,死结,死锁",
+            "correct": "/ ded /,/ ded /"
+        },
+        {
+            "word": "debug",
+            "meaning": "除错,调试",
+            "correct": "/ ˌdiːˈbʌɡ /,/ ˌdiːˈbʌɡ /"
+        },
+        {
+            "word": "debugger",
+            "meaning": "除错器,调试器",
+            "correct": "/ ˌdiːˈbʌɡə(r) /,/ ˌdiːˈbʌɡər /"
+        },
+        {
+            "word": "declaration",
+            "meaning": "宣告、宣告式,声明",
+            "correct": "/ ˌdekləˈreɪʃ(ə)n /,/ ˌdekləˈreɪʃn /"
+        },
+        {
+            "word": "deduction",
+            "meaning": "推导(例：template,argument,deduction),推导、推断",
+            "correct": "/ dɪˈdʌkʃn /,/ dɪˈdʌkʃ(ə)n /"
+        },
+        {
+            "word": "default",
+            "meaning": "预设,缺省、默认",
+            "correct": "/ dɪˈfɔːlt /,/ dɪˈfɔːltˌˈdiːfɔːlt /"
+        },
+        {
+            "word": "defer",
+            "meaning": "延缓,推迟",
+            "correct": "/ dɪˈfɜː(r) /,/ dɪˈfɜːr /"
+        },
+        {
+            "word": "define",
+            "meaning": "定义,预定义",
+            "correct": "/ dɪˈfaɪn /,/ dɪˈfaɪn /"
+        },
+        {
+            "word": "definition",
+            "meaning": "定义、定义区、定义式,定义",
+            "correct": "/ ˌdefɪˈnɪʃ(ə)n /,/ ˌdefɪˈnɪʃn /"
+        },
+        {
+            "word": "delegate",
+            "meaning": "委派、委托、委任,委托",
+            "correct": "/ ˈdelɪɡət /,/ ˈdelɪɡət /"
+        },
+        {
+            "word": "delegation",
+            "meaning": "(同上)",
+            "correct": "/ ˌdelɪˈɡeɪʃn /,/ ˌdelɪˈɡeɪʃn /"
+        },
+        {
+            "word": "demarshal",
+            "meaning": "反编列,散集",
+            "correct": ""
+        },
+        {
+            "word": "dereference",
+            "meaning": "提领(取出指标所指物体的内容),解叁考",
+            "correct": "/ ˌdiːˈrefrəns /,/ ˌdiːˈrefrəns /"
+        },
+        {
+            "word": "dereference",
+            "meaning": "operator,dereference(提领)运算子,*,解叁考操作符",
+            "correct": "/ ˌdiːˈrefrəns /,/ ˌdiːˈrefrəns /"
+        },
+        {
+            "word": "derived",
+            "meaning": "class,衍生类别,派生类",
+            "correct": "/ dɪˈraɪvd /,/ dɪˈraɪvd /"
+        },
+        {
+            "word": "design",
+            "meaning": "by,contract,契约式设计",
+            "correct": "/ dɪˈzaɪn /,/ dɪˈzaɪn /"
+        },
+        {
+            "word": "design",
+            "meaning": "pattern,设计范式、设计样式,设计模式",
+            "correct": "/ dɪˈzaɪn /,/ dɪˈzaɪn /"
+        },
+        {
+            "word": "destroy",
+            "meaning": "摧毁、销毁",
+            "correct": "/ dɪˈstrɔɪ /,/ dɪˈstrɔɪ /"
+        },
+        {
+            "word": "destructor",
+            "meaning": "解构式,析构函数",
+            "correct": "/ dɪsˈtrʌktə(r) /,/ dɪˈstrʌktər /"
+        },
+        {
+            "word": "device",
+            "meaning": "装置、设备,设备",
+            "correct": "/ dɪˈvaɪs /,/ dɪˈvaɪs /"
+        },
+        {
+            "word": "dialog",
+            "meaning": "对话窗、对话盒,对话框",
+            "correct": "/ ˈdaɪəlɒɡ /,/ ˈdaɪəlɔːɡ /"
+        },
+        {
+            "word": "directive",
+            "meaning": "指令(例：using,directive),(编译)指示符",
+            "correct": "/ dəˈrektɪv; daɪˈrektɪv /,/ dəˈrektɪvˌdaɪˈrektɪv /"
+        },
+        {
+            "word": "directory",
+            "meaning": "目录,目录",
+            "correct": "/ dəˈrektəri /,/ dəˈrektəri /"
+        },
+        {
+            "word": "disk",
+            "meaning": "碟,盘",
+            "correct": "/ dɪsk /,/ dɪsk /"
+        },
+        {
+            "word": "dispatch",
+            "meaning": "分派,分派",
+            "correct": "/ dɪˈspætʃ /,/ dɪˈspætʃ /"
+        },
+        {
+            "word": "distributed",
+            "meaning": "computing,分布式计算,(分布式电算),分布式计算",
+            "correct": "/ dɪˈstrɪbjuːtɪd; ˈdɪstrɪbjuːtɪd /,/ dɪˈstrɪbjuːtɪd /"
+        },
+        {
+            "word": "document",
+            "meaning": "文件,文档",
+            "correct": "/ ˈdɒkjumənt /,/ ˈdɑːkjumənt /"
+        },
+        {
+            "word": "dot",
+            "meaning": "operator,dot(句点)运算子,.,(圆)点操作符",
+            "correct": "/ dɒt /,/ dɑːt /"
+        },
+        {
+            "word": "driver",
+            "meaning": "驱动程式,驱动(程序)",
+            "correct": "/ ˈdraɪvə(r) /,/ ˈdraɪvər /"
+        },
+        {
+            "word": "dynamic",
+            "meaning": "binding,动态系结,动态绑定",
+            "correct": "/ daɪˈnæmɪk /,/ daɪˈnæmɪk /"
+        },
+        {
+            "word": "efficiency",
+            "meaning": "效率,效率",
+            "correct": "/ ɪˈfɪʃ(ə)nsi /,/ ɪˈfɪʃ(ə)nsi /"
+        },
+        {
+            "word": "efficient",
+            "meaning": "高效,高效",
+            "correct": "/ ɪˈfɪʃ(ə)nt /,/ ɪˈfɪʃ(ə)nt /"
+        },
+        {
+            "word": "end",
+            "meaning": "user,终端用户",
+            "correct": "/ end /,/ end /"
+        },
+        {
+            "word": "entity",
+            "meaning": "物体,实体、物体",
+            "correct": "/ ˈentəti /,/ ˈentəti /"
+        },
+        {
+            "word": "encapsulation",
+            "meaning": "封装,封装",
+            "correct": "/ ɪnˌkæpsjuˈleɪʃ(ə)n /,/ ɪnˌkæpsjuˈleɪʃ(ə)n /"
+        },
+        {
+            "word": "enclosing",
+            "meaning": "class,外围类别(与巢状类别,nested,class,有关)外围类",
+            "correct": "/ ɪnˈkloz /"
+        },
+        {
+            "word": "enum",
+            "meaning": "(enumeration),列举(一种,c++,资料型别),枚举",
+            "correct": "/ ɪˌnjuːm /,/ ˈenəm /"
+        },
+        {
+            "word": "enumerators",
+            "meaning": "列举元(enemy,型别中的成员),枚举成员、枚举器",
+            "correct": ""
+        },
+        {
+            "word": "equal",
+            "meaning": "相等,相等",
+            "correct": "/ ˈiːkwəl /,/ ˈiːkwəl /"
+        },
+        {
+            "word": "equality",
+            "meaning": "相等性,相等性",
+            "correct": "/ iˈkwɒləti /,/ iˈkwɑːləti /"
+        },
+        {
+            "word": "equality",
+            "meaning": "operator,equality(等号)运算子,==,等号操作符",
+            "correct": "/ iˈkwɒləti /,/ iˈkwɑːləti /"
+        },
+        {
+            "word": "equivalence",
+            "meaning": "等价性、等同性、对等性,等价性",
+            "correct": "/ ɪˈkwɪvələns /,/ ɪˈkwɪvələns /"
+        },
+        {
+            "word": "equivalent",
+            "meaning": "等价、等同、对等,等价",
+            "correct": "/ ɪˈkwɪvələnt /,/ ɪˈkwɪvələnt /"
+        },
+        {
+            "word": "escape",
+            "meaning": "code,转义码,转义码",
+            "correct": "/ ɪˈskeɪp /,/ ɪˈskeɪp /"
+        },
+        {
+            "word": "evaluate",
+            "meaning": "评估、求值、核定,评估",
+            "correct": "/ ɪˈvæljueɪt /,/ ɪˈvæljueɪt /"
+        },
+        {
+            "word": "event",
+            "meaning": "事件,事件",
+            "correct": "/ ɪˈvent /,/ ɪˈvent /"
+        },
+        {
+            "word": "event",
+            "meaning": "driven,事件驱动的,事件驱动的",
+            "correct": "/ ɪˈvent /,/ ɪˈvent /"
+        },
+        {
+            "word": "exception",
+            "meaning": "异常情况,异常",
+            "correct": "/ ɪkˈsepʃ(ə)n /,/ ɪkˈsepʃn /"
+        },
+        {
+            "word": "exception",
+            "meaning": "declaration,异常宣告(ref.,c++,primer,3/e,,11.3)异常声明",
+            "correct": "/ ɪkˈsepʃ(ə)n /,/ ɪkˈsepʃn /"
+        },
+        {
+            "word": "exception",
+            "meaning": "handling,异常处理、异常处理机制,异常处理、异常处理机制",
+            "correct": "/ ɪkˈsepʃ(ə)n /,/ ɪkˈsepʃn /"
+        },
+        {
+            "word": "exception",
+            "meaning": "specification,异常规格(ref.,c++,primer,3/e,,11.4)异常规范",
+            "correct": "/ ɪkˈsepʃ(ə)n /,/ ɪkˈsepʃn /"
+        },
+        {
+            "word": "exit",
+            "meaning": "退离(指离开函式时的那一个执行点),退出",
+            "correct": "/ ˈeksɪt /,/ ˈeksɪt /"
+        },
+        {
+            "word": "explicit",
+            "meaning": "明白的、明显的、显式,显式",
+            "correct": "/ ɪkˈsplɪsɪt /,/ ɪkˈsplɪsɪt /"
+        },
+        {
+            "word": "export",
+            "meaning": "汇出,引出、导出",
+            "correct": "/ ɪkˈspɔːt; ˈekspɔːt /,/ ɪkˈspɔːrt /"
+        },
+        {
+            "word": "expression",
+            "meaning": "运算式、算式,表达式",
+            "correct": "/ ɪkˈspreʃ(ə)n /,/ ɪkˈspreʃ(ə)n /"
+        },
+        {
+            "word": "facility",
+            "meaning": "设施、设备,设施、设备",
+            "correct": "/ fəˈsɪləti /,/ fəˈsɪləti /"
+        },
+        {
+            "word": "feature",
+            "meaning": "特性",
+            "correct": "/ ˈfiːtʃə(r) /,/ ˈfiːtʃər /"
+        },
+        {
+            "word": "field",
+            "meaning": "栏位,资料栏(java),字段,,值域(java)",
+            "correct": "/ fiːld /,/ fiːld /"
+        },
+        {
+            "word": "file",
+            "meaning": "档案,文件",
+            "correct": "/ faɪl /,/ faɪl /"
+        },
+        {
+            "word": "firmware",
+            "meaning": "韧体,固件",
+            "correct": "/ ˈfɜːmweə(r) /,/ ˈfɜːrmwer /"
+        },
+        {
+            "word": "flag",
+            "meaning": "旗标,标记",
+            "correct": "/ flæɡ /,/ flæɡ /"
+        },
+        {
+            "word": "flash",
+            "meaning": "memory,快闪记忆体,闪存",
+            "correct": "/ flæʃ /,/ flæʃ /"
+        },
+        {
+            "word": "flexibility",
+            "meaning": "弹性,灵活性",
+            "correct": "/ ˌfleksəˈbɪləti /,/ ˌfleksəˈbɪləti /"
+        },
+        {
+            "word": "flush",
+            "meaning": "清理、扫清,刷新",
+            "correct": "/ flʌʃ /,/ flʌʃ /"
+        },
+        {
+            "word": "font",
+            "meaning": "字型,字体",
+            "correct": "/ fɒnt /,/ fɑːnt /"
+        },
+        {
+            "word": "form",
+            "meaning": "表单(programming,用语),窗体",
+            "correct": "/ fɔːm /,/ fɔːrm /"
+        },
+        {
+            "word": "formal",
+            "meaning": "parameter,形式叁数,形式叁数",
+            "correct": "/ ˈfɔːm(ə)l /,/ ˈfɔːrm(ə)l /"
+        },
+        {
+            "word": "forward",
+            "meaning": "declaration,前置宣告,前置声明",
+            "correct": "/ ˈfɔːwəd /,/ ˈfɔːrwərd /"
+        },
+        {
+            "word": "forwarding",
+            "meaning": "转呼叫,转发,转发",
+            "correct": "/ ˈfɔːwədɪŋ /"
+        },
+        {
+            "word": "forwarding",
+            "meaning": "function,转呼叫函式,转发函式,转发函数",
+            "correct": "/ ˈfɔːwədɪŋ /"
+        },
+        {
+            "word": "fractal",
+            "meaning": "碎形,分形",
+            "correct": "/ ˈfræktl /,/ ˈfræktl /"
+        },
+        {
+            "word": "framework",
+            "meaning": "框架,框架",
+            "correct": "/ ˈfreɪmwɜːk /,/ ˈfreɪmwɜːrk /"
+        },
+        {
+            "word": "full",
+            "meaning": "specialization,全特化(ref.,partial,specialization)",
+            "correct": "/ fʊl /,/ fʊl /"
+        },
+        {
+            "word": "function",
+            "meaning": "函式、函数,函数",
+            "correct": "/ ˈfʌŋkʃ(ə)n /,/ ˈfʌŋkʃ(ə)n /"
+        },
+        {
+            "word": "function",
+            "meaning": "call,operator,同,call,operator",
+            "correct": "/ ˈfʌŋkʃ(ə)n /,/ ˈfʌŋkʃ(ə)n /"
+        },
+        {
+            "word": "function",
+            "meaning": "object,函式物件(ref.,c++,primer,3/e,,12.3),函数对象",
+            "correct": "/ ˈfʌŋkʃ(ə)n /,/ ˈfʌŋkʃ(ə)n /"
+        },
+        {
+            "word": "function",
+            "meaning": "overloaded,resolution",
+            "correct": "/ ˈfʌŋkʃ(ə)n /,/ ˈfʌŋkʃ(ə)n /"
+        },
+        {
+            "word": "functionality",
+            "meaning": "功能、机能,功能",
+            "correct": "/ ˌfʌŋkʃəˈnæləti /,/ ˌfʌŋkʃəˈnæləti /"
+        },
+        {
+            "word": "function",
+            "meaning": "template,函式模板、函式范本,函数模板",
+            "correct": "/ ˈfʌŋkʃ(ə)n /,/ ˈfʌŋkʃ(ə)n /"
+        },
+        {
+            "word": "factor",
+            "meaning": "仿函式,仿函式、函子",
+            "correct": "/ ˈfæktə(r) /,/ ˈfæktər /"
+        },
+        {
+            "word": "game",
+            "meaning": "游戏,游戏",
+            "correct": "/ ɡeɪm /,/ ɡeɪm /"
+        },
+        {
+            "word": "generate",
+            "meaning": "生成",
+            "correct": "/ ˈdʒenəreɪt /,/ ˈdʒenəreɪt /"
+        },
+        {
+            "word": "generic",
+            "meaning": "泛型、一般化的,一般化的、通用的、泛化",
+            "correct": "/ dʒəˈnerɪk /,/ dʒəˈnerɪk /"
+        },
+        {
+            "word": "generic",
+            "meaning": "algorithm,泛型演算法,通用算法",
+            "correct": "/ dʒəˈnerɪk /,/ dʒəˈnerɪk /"
+        },
+        {
+            "word": "getter",
+            "meaning": "(相对於,setter),取值函式",
+            "correct": "/ ˈɡetə(r) /,/ ˈɡetər /"
+        },
+        {
+            "word": "global",
+            "meaning": "全域的(对应於,local),全局的",
+            "correct": "/ ˈɡləʊb(ə)l /,/ ˈɡloʊb(ə)l /"
+        },
+        {
+            "word": "global",
+            "meaning": "object,全域物件,全局对象",
+            "correct": "/ ˈɡləʊb(ə)l /,/ ˈɡloʊb(ə)l /"
+        },
+        {
+            "word": "global",
+            "meaning": "scope,resolution,operator",
+            "correct": "/ ˈɡləʊb(ə)l /,/ ˈɡloʊb(ə)l /"
+        },
+        {
+            "word": "group",
+            "meaning": "群组",
+            "correct": "/ ɡruːp /,/ ɡruːp /"
+        },
+        {
+            "word": "group",
+            "meaning": "box,群组方块,分组框",
+            "correct": "/ ɡruːp /,/ ɡruːp /"
+        },
+        {
+            "word": "guard",
+            "meaning": "clause,卫述句,(refactoring,,p250),卫语句",
+            "correct": "/ ɡɑːd /,/ ɡɑːrd /"
+        },
+        {
+            "word": "gui",
+            "meaning": "图形介面,图形界面",
+            "correct": "/ ˈɡuːi; ˌdʒiː juː ˈaɪ /,/ ˈɡuːiˌˌdʒiː juː ˈaɪ /"
+        },
+        {
+            "word": "hand",
+            "meaning": "shaking,握手协商",
+            "correct": "/ hænd /,/ hænd /"
+        },
+        {
+            "word": "handle",
+            "meaning": "识别码、识别号、号码牌、权柄,句柄",
+            "correct": "/ ˈhænd(ə)l /,/ ˈhænd(ə)l /"
+        },
+        {
+            "word": "handler",
+            "meaning": "处理常式,处理函数",
+            "correct": "/ ˈhændlə(r) /,/ ˈhændlər /"
+        },
+        {
+            "word": "hard-coded",
+            "meaning": "编死的,硬编码的",
+            "correct": ""
+        },
+        {
+            "word": "hard-copy",
+            "meaning": "硬拷图,屏幕截图",
+            "correct": "/ ˌhɑːd ˈkɒpi /,/ ˌhɑːrd ˈkɑːpi /"
+        },
+        {
+            "word": "hard",
+            "meaning": "disk,硬碟,硬盘",
+            "correct": "/ hɑːd /,/ hɑːrd /"
+        },
+        {
+            "word": "hardware",
+            "meaning": "硬体,硬件",
+            "correct": "/ ˈhɑːdweə(r) /,/ ˈhɑːrdwer /"
+        },
+        {
+            "word": "hash",
+            "meaning": "table,杂凑表,哈希表、散列表",
+            "correct": "/ hæʃ /,/ hæʃ /"
+        },
+        {
+            "word": "header",
+            "meaning": "file,表头档、标头档,头文件",
+            "correct": "/ ˈhedə(r) /,/ ˈhedər /"
+        },
+        {
+            "word": "heap",
+            "meaning": "堆积,堆",
+            "correct": "/ hiːp /,/ hiːp /"
+        },
+        {
+            "word": "hierarchy",
+            "meaning": "阶层体系,层次结构(体系)",
+            "correct": "/ ˈhaɪərɑːki /,/ ˈhaɪərɑːrki /"
+        },
+        {
+            "word": "hook",
+            "meaning": "挂钩,钩子",
+            "correct": "/ hʊk /,/ hʊk /"
+        },
+        {
+            "word": "hyperlink",
+            "meaning": "超链结,超链接",
+            "correct": "/ ˈhaɪpəlɪŋk /,/ ˈhaɪpərlɪŋk /"
+        },
+        {
+            "word": "icon",
+            "meaning": "图示、图标,图标",
+            "correct": "/ ˈaɪkɒn /,/ ˈaɪkɑːn /"
+        },
+        {
+            "word": "ide",
+            "meaning": "整合开发环境,集成开发环境",
+            "correct": "/ aɪd /,/ aɪd /"
+        },
+        {
+            "word": "identifier",
+            "meaning": "识别字、识别符号,标识符",
+            "correct": "/ aɪˈdentɪfaɪə(r) /,/ aɪˈdentɪfaɪər /"
+        },
+        {
+            "word": "if",
+            "meaning": "and,only,if,若且唯若,当且仅当",
+            "correct": "/ ɪf /,/ ɪf /"
+        },
+        {
+            "word": "illinois",
+            "meaning": "伊利诺,伊利诺斯",
+            "correct": "/ ˌɪləˈnɔɪz /,/ ˌɪləˈnɔɪ /"
+        },
+        {
+            "word": "image",
+            "meaning": "影像,图象",
+            "correct": "/ ˈɪmɪdʒ /,/ ˈɪmɪdʒ /"
+        },
+        {
+            "word": "immediate",
+            "meaning": "base,直接的(紧临的)上层,base,class。,直接上层基类",
+            "correct": "/ ɪˈmiːdiət /,/ ɪˈmiːdiət /"
+        },
+        {
+            "word": "immediate",
+            "meaning": "derived,直接的(紧临的)下层,derived,class。,直接下层派生类",
+            "correct": "/ ɪˈmiːdiət /,/ ɪˈmiːdiət /"
+        },
+        {
+            "word": "immutability",
+            "meaning": "不变性",
+            "correct": "/ ɪˌmjuːtəˈbɪləti /,/ ɪˌmjuːtəˈbɪləti /"
+        },
+        {
+            "word": "immutable",
+            "meaning": "不可变(的)",
+            "correct": "/ ɪˈmjuːtəb(ə)l /,/ ɪˈmjuːtəb(ə)l /"
+        },
+        {
+            "word": "implement",
+            "meaning": "实作、实现,实现",
+            "correct": "/ ˈɪmplɪment /,/ ˈɪmplɪment /"
+        },
+        {
+            "word": "implementation",
+            "meaning": "实作品、实作体、实作码、实件,实现",
+            "correct": "/ ˌɪmplɪmenˈteɪʃ(ə)n /,/ ˌɪmplɪmenˈteɪʃ(ə)n /"
+        },
+        {
+            "word": "implicit",
+            "meaning": "隐喻的、暗自的、隐式,隐式",
+            "correct": "/ ɪmˈplɪsɪt /,/ ɪmˈplɪsɪt /"
+        },
+        {
+            "word": "import",
+            "meaning": "汇入,导入",
+            "correct": "/ ˈɪmpɔːt /,/ ˈɪmpɔːrt /"
+        },
+        {
+            "word": "increment",
+            "meaning": "operator,累加运算子,++,增加操作符",
+            "correct": "/ ˈɪŋkrəmənt /,/ ˈɪŋkrəmənt /"
+        },
+        {
+            "word": "infinite",
+            "meaning": "loop,无穷回圈,无限循环",
+            "correct": "/ ˈɪnfɪnət /,/ ˈɪnfɪnət /"
+        },
+        {
+            "word": "infinite",
+            "meaning": "recursive,无穷递回,无限递归",
+            "correct": "/ ˈɪnfɪnət /,/ ˈɪnfɪnət /"
+        },
+        {
+            "word": "information",
+            "meaning": "资讯,信息",
+            "correct": "/ ˌɪnfəˈmeɪʃ(ə)n /,/ ˌɪnfərˈmeɪʃ(ə)n /"
+        },
+        {
+            "word": "infrastructure",
+            "meaning": "公共基础建设",
+            "correct": "/ ˈɪnfrəstrʌktʃə(r) /,/ ˈɪnfrəstrʌktʃər /"
+        },
+        {
+            "word": "inheritance",
+            "meaning": "继承、继承机制,继承、继承机制",
+            "correct": "/ ɪnˈherɪtəns /,/ ɪnˈherɪtəns /"
+        },
+        {
+            "word": "inline",
+            "meaning": "行内,内联",
+            "correct": "/ ˈɪnlaɪn /,/ ˈɪnlaɪn /"
+        },
+        {
+            "word": "inline",
+            "meaning": "expansion,行内展开,内联展开",
+            "correct": "/ ˈɪnlaɪn /,/ ˈɪnlaɪn /"
+        },
+        {
+            "word": "initialization",
+            "meaning": "初始化(动作),初始化",
+            "correct": "/ ɪˌnɪʃəlaɪˈzeɪʃn /,/ ɪˌnɪʃələˈzeɪʃn /"
+        },
+        {
+            "word": "initialization",
+            "meaning": "list,初值列,初始值列表",
+            "correct": "/ ɪˌnɪʃəlaɪˈzeɪʃn /,/ ɪˌnɪʃələˈzeɪʃn /"
+        },
+        {
+            "word": "initialize",
+            "meaning": "初始化,初始化",
+            "correct": "/ ɪˈnɪʃəlaɪz /,/ ɪˈnɪʃəlaɪz /"
+        },
+        {
+            "word": "inner",
+            "meaning": "class,内隐类别,内嵌类",
+            "correct": "/ ˈɪnə(r) /,/ ˈɪnər /"
+        },
+        {
+            "word": "instance",
+            "meaning": "实体,实例",
+            "correct": "/ ˈɪnstəns /,/ ˈɪnstəns /"
+        },
+        {
+            "word": "instantiated",
+            "meaning": "具现化、实体化(常应用於,template),实例化",
+            "correct": ""
+        },
+        {
+            "word": "instantiation",
+            "meaning": "具现体、具现化实体(常应用於,template),实例",
+            "correct": "/ ɪnstænʃɪˈeɪʃən /,/ ɪnstænʃɪˈeɪʃən /"
+        },
+        {
+            "word": "integer",
+            "meaning": "(integral),整数(的),整型(的)",
+            "correct": "/ ˈɪntɪdʒə(r) /,/ ˈɪntɪdʒər /"
+        },
+        {
+            "word": "integrate",
+            "meaning": "整合,集成",
+            "correct": "/ ˈɪntɪɡreɪt /,/ ˈɪntɪɡreɪt /"
+        },
+        {
+            "word": "interacts",
+            "meaning": "交谈、互动,交互",
+            "correct": "/ ˌɪntərˈækts /,/ ˌɪntərˈækts /"
+        },
+        {
+            "word": "interface",
+            "meaning": "介面,接口",
+            "correct": "/ ˈɪntəfeɪs /,/ ˈɪntərfeɪs /"
+        },
+        {
+            "word": "for",
+            "meaning": "gui,介面,界面",
+            "correct": "/ fɔː(r); fə(r) /,/ fɔːr; fər /"
+        },
+        {
+            "word": "interpreter",
+            "meaning": "直译器,解释器",
+            "correct": "/ ɪnˈtɜːprətə(r) /,/ ɪnˈtɜːrprətər /"
+        },
+        {
+            "word": "invariants",
+            "meaning": "恒常性,约束条件,约束条件",
+            "correct": "/ ɪnˈveriənts /"
+        },
+        {
+            "word": "invoke",
+            "meaning": "唤起,调用",
+            "correct": "/ ɪnˈvəʊk /,/ ɪnˈvoʊk /"
+        },
+        {
+            "word": "iterate",
+            "meaning": "迭代(回圈一个轮回一个轮回地进行),迭代",
+            "correct": "/ ˈɪtəreɪt /,/ ˈɪtəreɪt /"
+        },
+        {
+            "word": "iterative",
+            "meaning": "反覆的，迭代的",
+            "correct": "/ ˈɪtərətɪv /,/ ˈɪtəreɪtɪvˌˈɪtərətɪv /"
+        },
+        {
+            "word": "iterator",
+            "meaning": "迭代器(一种泛型指标),迭代器",
+            "correct": "/ ɪtəˈreɪtə /,/ ɪtəˈretɚ /"
+        },
+        {
+            "word": "iteration",
+            "meaning": "迭代(回圈每次轮回称为一个,iteration),迭代",
+            "correct": "/ ˌɪtəˈreɪʃn /,/ ˌɪtəˈreɪʃn /"
+        },
+        {
+            "word": "item",
+            "meaning": "项目、条款,项、条款、项目",
+            "correct": "/ ˈaɪtəm /,/ ˈaɪtəm /"
+        },
+        {
+            "word": "laser",
+            "meaning": "雷射,激光",
+            "correct": "/ ˈleɪzə(r) /,/ ˈleɪzər /"
+        },
+        {
+            "word": "level",
+            "meaning": "阶,层,(级)",
+            "correct": "/ ˈlev(ə)l /,/ ˈlev(ə)l /"
+        },
+        {
+            "word": "library",
+            "meaning": "程式库、函式库,库、函数库",
+            "correct": "/ ˈlaɪbrəri /,/ ˈlaɪbreri /"
+        },
+        {
+            "word": "lifetime",
+            "meaning": "生命期、寿命,生命期、寿命",
+            "correct": "/ ˈlaɪftaɪm /,/ ˈlaɪftaɪm /"
+        },
+        {
+            "word": "link",
+            "meaning": "联结、连结,连接,链接",
+            "correct": "/ lɪŋk /,/ lɪŋk /"
+        },
+        {
+            "word": "linker",
+            "meaning": "联结器、连结器,连接器",
+            "correct": "/ ˈlɪŋkə(r) /,/ ˈlɪŋkər /"
+        },
+        {
+            "word": "literal",
+            "meaning": "constant,字面常数(例,3.14,或,\"hi\",这等常数值),字面常数",
+            "correct": "/ ˈlɪtərəl /,/ ˈlɪtərəl /"
+        },
+        {
+            "word": "list",
+            "meaning": "串列(linked-list),列表、表、链表",
+            "correct": "/ lɪst /,/ lɪst /"
+        },
+        {
+            "word": "list",
+            "meaning": "box,列表方块、列表框,列表框",
+            "correct": "/ lɪst /,/ lɪst /"
+        },
+        {
+            "word": "load",
+            "meaning": "载入,装载",
+            "correct": "/ ləʊd /,/ loʊd /"
+        },
+        {
+            "word": "loader",
+            "meaning": "载入器,装载器、载入器",
+            "correct": "/ ˈləʊdə(r) /,/ ˈloʊdər /"
+        },
+        {
+            "word": "local",
+            "meaning": "区域的(对应於,global),局部的",
+            "correct": "/ ˈləʊk(ə)l /,/ ˈloʊk(ə)l /"
+        },
+        {
+            "word": "local",
+            "meaning": "object,区域物件,局部对象",
+            "correct": "/ ˈləʊk(ə)l /,/ ˈloʊk(ə)l /"
+        },
+        {
+            "word": "lock",
+            "meaning": "机锁",
+            "correct": "/ lɒk /,/ lɑːk /"
+        },
+        {
+            "word": "loop",
+            "meaning": "回圈,循环",
+            "correct": "/ luːp /,/ luːp /"
+        },
+        {
+            "word": "lvalue",
+            "meaning": "左值,左值",
+            "correct": ""
+        },
+        {
+            "word": "macro",
+            "meaning": "巨集,宏",
+            "correct": "/ ˈmækrəʊ /,/ ˈmækroʊ /"
+        },
+        {
+            "word": "magic",
+            "meaning": "number,魔术数字,魔法数",
+            "correct": "/ ˈmædʒɪk /,/ ˈmædʒɪk /"
+        },
+        {
+            "word": "maintain",
+            "meaning": "维护,维护",
+            "correct": "/ meɪnˈteɪn /,/ meɪnˈteɪn /"
+        },
+        {
+            "word": "manipulator",
+            "meaning": "操纵器(iostream,预先定义的一种东西),操纵器",
+            "correct": "/ məˈnɪpjuleɪtə(r) /,/ məˈnɪpjuleɪtər /"
+        },
+        {
+            "word": "marshal",
+            "meaning": "编列,列集",
+            "correct": "/ ˈmɑːʃ(ə)l /,/ ˈmɑːrʃ(ə)l /"
+        },
+        {
+            "word": "mechanism",
+            "meaning": "机制,机制",
+            "correct": "/ ˈmekənɪzəm /,/ ˈmekənɪzəm /"
+        },
+        {
+            "word": "member",
+            "meaning": "成员,成员",
+            "correct": "/ ˈmembə(r) /,/ ˈmembər /"
+        },
+        {
+            "word": "member",
+            "meaning": "access,operator,成员取用运算子(有,dot,和,arrow,两种),成员存取操作符",
+            "correct": "/ ˈmembə(r) /,/ ˈmembər /"
+        },
+        {
+            "word": "member",
+            "meaning": "function,成员函式,成员函数",
+            "correct": "/ ˈmembə(r) /,/ ˈmembər /"
+        },
+        {
+            "word": "member",
+            "meaning": "initialization,list",
+            "correct": "/ ˈmembə(r) /,/ ˈmembər /"
+        },
+        {
+            "word": "memberwise",
+            "meaning": "以,member,为单元┅、members,逐一┅,以成员为单位",
+            "correct": ""
+        },
+        {
+            "word": "memberwise",
+            "meaning": "copy,以,members,为单元逐一复制",
+            "correct": ""
+        },
+        {
+            "word": "memory",
+            "meaning": "记忆体 内存",
+            "correct": "/ ˈmeməri /,/ ˈmeməri /"
+        },
+        {
+            "word": "menu",
+            "meaning": "表单、选单,菜单",
+            "correct": "/ ˈmenjuː /,/ ˈmenjuː /"
+        },
+        {
+            "word": "message",
+            "meaning": "讯息,消息",
+            "correct": "/ ˈmesɪdʒ /,/ ˈmesɪdʒ /"
+        },
+        {
+            "word": "message",
+            "meaning": "based,以讯息为基础的,基於消息的",
+            "correct": "/ ˈmesɪdʒ /,/ ˈmesɪdʒ /"
+        },
+        {
+            "word": "message",
+            "meaning": "loop,讯息回圈,消息环",
+            "correct": "/ ˈmesɪdʒ /,/ ˈmesɪdʒ /"
+        },
+        {
+            "word": "method",
+            "meaning": "(java),方法、行为、函式,方法",
+            "correct": "/ ˈmeθəd /,/ ˈmeθəd /"
+        },
+        {
+            "word": "meta-",
+            "meaning": "超-,元-",
+            "correct": ""
+        },
+        {
+            "word": "micro",
+            "meaning": "微,微",
+            "correct": "/ ˈmaɪkrəʊ /,/ ˈmaɪkroʊ /"
+        },
+        {
+            "word": "middleware",
+            "meaning": "中介层,中间件",
+            "correct": "/ ˈmɪdlweə(r) /,/ ˈmɪdlwer /"
+        },
+        {
+            "word": "modeling",
+            "meaning": "模塑",
+            "correct": "/ ˈmɒd(ə)lɪŋ /,/ ˈmɑːd(ə)lɪŋ /"
+        },
+        {
+            "word": "modeling",
+            "meaning": "language,塑模语言，建模语言",
+            "correct": "/ ˈmɒd(ə)lɪŋ /,/ ˈmɑːd(ə)lɪŋ /"
+        },
+        {
+            "word": "modem",
+            "meaning": "数据机,调制解调器",
+            "correct": "/ ˈməʊdem /,/ ˈmoʊdəm /"
+        },
+        {
+            "word": "module",
+            "meaning": "模组,模块",
+            "correct": "/ ˈmɒdjuːl /,/ ˈmɑːdʒuːl /"
+        },
+        {
+            "word": "modifier",
+            "meaning": "饰词,修饰符",
+            "correct": "/ ˈmɒdɪfaɪə(r) /,/ ˈmɑːdɪfaɪər /"
+        },
+        {
+            "word": "most",
+            "meaning": "derived,class,最末层衍生类别,最底层的派生类",
+            "correct": "/ məʊst /,/ moʊst /"
+        },
+        {
+            "word": "mouse",
+            "meaning": "滑鼠 鼠标",
+            "correct": "/ maʊs /,/ maʊs /"
+        },
+        {
+            "word": "mutable",
+            "meaning": "可变的,可变的",
+            "correct": "/ ˈmjuːtəb(ə)l /,/ ˈmjuːtəb(ə)l /"
+        },
+        {
+            "word": "multi-tasking",
+            "meaning": "多工,多任务",
+            "correct": ""
+        },
+        {
+            "word": "namespace",
+            "meaning": "命名空间,名字空间、命名空间",
+            "correct": "/ ˈneɪmspeɪs /"
+        },
+        {
+            "word": "native",
+            "meaning": "原生的,本地的、固有的",
+            "correct": "/ ˈneɪtɪv /,/ ˈneɪtɪv /"
+        },
+        {
+            "word": "nested",
+            "meaning": "class,巢状类别,嵌套类",
+            "correct": "/ ˈnestɪd /,/ ˈnestɪd /"
+        },
+        {
+            "word": "network",
+            "meaning": "网路,网络",
+            "correct": "/ ˈnetwɜːk /,/ ˈnetwɜːrk /"
+        },
+        {
+            "word": "network",
+            "meaning": "card,网路卡,网卡",
+            "correct": "/ ˈnetwɜːk /,/ ˈnetwɜːrk /"
+        },
+        {
+            "word": "object",
+            "meaning": "物件,对象",
+            "correct": "/ ˈɒbdʒɪkt; əbˈdʒekt /,/ ˈɑːbdʒekt /"
+        },
+        {
+            "word": "object",
+            "meaning": "based,以物件为基础的,基於对象的",
+            "correct": "/ ˈɒbdʒɪkt; əbˈdʒekt /,/ ˈɑːbdʒekt /"
+        },
+        {
+            "word": "object",
+            "meaning": "file,目的档,目标文件",
+            "correct": "/ ˈɒbdʒɪkt; əbˈdʒekt /,/ ˈɑːbdʒekt /"
+        },
+        {
+            "word": "object",
+            "meaning": "model,物件模型,对象模型",
+            "correct": "/ ˈɒbdʒɪkt; əbˈdʒekt /,/ ˈɑːbdʒekt /"
+        },
+        {
+            "word": "object",
+            "meaning": "oriented,物件导向的,面向对象的",
+            "correct": "/ ˈɒbdʒɪkt; əbˈdʒekt /,/ ˈɑːbdʒekt /"
+        },
+        {
+            "word": "online",
+            "meaning": "线上,在线",
+            "correct": "/ ˌɒnˈlaɪn /,/ ˌɑːnˈlaɪn /"
+        },
+        {
+            "word": "opaque",
+            "meaning": "不透明的",
+            "correct": "/ əʊˈpeɪk /,/ oʊˈpeɪk /"
+        },
+        {
+            "word": "operand",
+            "meaning": "运算元,操作数",
+            "correct": "/ ˈɒpərænd /,/ ˈɑːpərænd /"
+        },
+        {
+            "word": "operating",
+            "meaning": "system,(os),作业系统 操作系统",
+            "correct": "/ ˈɒpəreɪtɪŋ /,/ ˈɑpəretɪŋ /"
+        },
+        {
+            "word": "operation",
+            "meaning": "操作、操作行为,操作",
+            "correct": "/ ˌɒpəˈreɪʃ(ə)n /,/ ˌɑːpəˈreɪʃ(ə)n /"
+        },
+        {
+            "word": "operator",
+            "meaning": "运算子,操作符、运算符",
+            "correct": "/ ˈɒpəreɪtə(r) /,/ ˈɑːpəreɪtər /"
+        },
+        {
+            "word": "option",
+            "meaning": "选项，可选方案,选项",
+            "correct": "/ ˈɒpʃ(ə)n /,/ ˈɑːpʃ(ə)n /"
+        },
+        {
+            "word": "ordinary",
+            "meaning": "常规的,常规的",
+            "correct": "/ ˈɔːd(ə)n(ə)ri /,/ ˈɔːrd(ə)neri /"
+        },
+        {
+            "word": "overflow",
+            "meaning": "上限溢位(相对於,underflow),溢出(underflow:下溢)",
+            "correct": "/ ˌəʊvəˈfləʊ /,/ ˌoʊvərˈfloʊ /"
+        },
+        {
+            "word": "overhead",
+            "meaning": "额外负担、额外开销,额外开销",
+            "correct": "/ ˌəʊvəˈhed /,/ ˌoʊvərˈhed /"
+        },
+        {
+            "word": "overload",
+            "meaning": "多载化、多载化、重载,重载",
+            "correct": "/ ˌəʊvəˈləʊd /,/ ˌoʊvərˈloʊd /"
+        },
+        {
+            "word": "overloaded",
+            "meaning": "function,多载化函式,重载的函数",
+            "correct": "/ ˌəʊvəˈləʊdɪd /,/ ˈovərˈlod /"
+        },
+        {
+            "word": "overloaded",
+            "meaning": "operator,多载化运算子,被重载的操作符",
+            "correct": "/ ˌəʊvəˈləʊdɪd /,/ ˈovərˈlod /"
+        },
+        {
+            "word": "overloaded",
+            "meaning": "set,多载集合,重载集合",
+            "correct": "/ ˌəʊvəˈləʊdɪd /,/ ˈovərˈlod /"
+        },
+        {
+            "word": "override",
+            "meaning": "改写、覆写,重载、改写、重新定义",
+            "correct": "/ ˌəʊvəˈraɪd /,/ ˌoʊvərˈraɪd /"
+        },
+        {
+            "word": "package",
+            "meaning": "套件,包",
+            "correct": "/ ˈpækɪdʒ /,/ ˈpækɪdʒ /"
+        },
+        {
+            "word": "pair",
+            "meaning": "对组",
+            "correct": "/ peə(r) /,/ per /"
+        },
+        {
+            "word": "palette",
+            "meaning": "调色盘、组件盘、工具箱",
+            "correct": "/ ˈpælət /,/ ˈpælət /"
+        },
+        {
+            "word": "pane",
+            "meaning": "窗格,窗格",
+            "correct": "/ peɪn /,/ peɪn /"
+        },
+        {
+            "word": "parallel",
+            "meaning": "平行,并行",
+            "correct": "/ ˈpærəlel /,/ ˈpærəlel /"
+        },
+        {
+            "word": "parameter",
+            "meaning": "叁数(函式叁数列上的变数),叁数、形式叁数、形叁",
+            "correct": "/ pəˈræmɪtə(r) /,/ pəˈræmɪtər /"
+        },
+        {
+            "word": "parameter",
+            "meaning": "list,叁数列,叁数列表",
+            "correct": "/ pəˈræmɪtə(r) /,/ pəˈræmɪtər /"
+        },
+        {
+            "word": "parent",
+            "meaning": "class,父类别(或称,base,class),父类",
+            "correct": "/ ˈpeərənt /,/ ˈperənt /"
+        },
+        {
+            "word": "parentheses",
+            "meaning": "小括弧、小括号,圆括弧、圆括号",
+            "correct": "/ pəˈrenθəsiːz /,/ pəˈrenθəsiːz /"
+        },
+        {
+            "word": "parse",
+            "meaning": "解析,解析",
+            "correct": "/ pɑːz /,/ pɑːrs /"
+        },
+        {
+            "word": "part",
+            "meaning": "零件,部件",
+            "correct": "/ pɑːt /,/ pɑːrt /"
+        },
+        {
+            "word": "partial",
+            "meaning": "specialization,偏特化(ref.,c++,primer,3/e,,16.10)局部特化",
+            "correct": "/ ˈpɑːʃ(ə)l /,/ ˈpɑːrʃ(ə)l /"
+        },
+        {
+            "word": "pass",
+            "meaning": "by,address,传址(函式引数的传递方式)(非正式用语)传地址",
+            "correct": "/ pɑːs /,/ pæs /"
+        },
+        {
+            "word": "pass",
+            "meaning": "by,reference,传址(函式引数的一种传递方式),传地址,,按引用传递",
+            "correct": "/ pɑːs /,/ pæs /"
+        },
+        {
+            "word": "pass",
+            "meaning": "by,value,传值(函式引数的一种传递方式),按值传递",
+            "correct": "/ pɑːs /,/ pæs /"
+        },
+        {
+            "word": "pattern",
+            "meaning": "范式、样式,模式",
+            "correct": "/ ˈpæt(ə)n /,/ ˈpætərn /"
+        },
+        {
+            "word": "performance",
+            "meaning": "效率、性能兼而有之,性能",
+            "correct": "/ pəˈfɔːməns /,/ pərˈfɔːrməns /"
+        },
+        {
+            "word": "persistence",
+            "meaning": "永续性,持久性",
+            "correct": "/ pəˈsɪstəns /,/ pərˈsɪstəns /"
+        },
+        {
+            "word": "pixel",
+            "meaning": "图素、像素,像素",
+            "correct": "/ ˈpɪksl /,/ ˈpɪksl /"
+        },
+        {
+            "word": "placement",
+            "meaning": "delete,ref.,c++,primer,3/e,,15.8.2",
+            "correct": "/ ˈpleɪsmənt /,/ ˈpleɪsmənt /"
+        },
+        {
+            "word": "placement",
+            "meaning": "new,ref.,c++,primer,3/e,,15.8.2",
+            "correct": "/ ˈpleɪsmənt /,/ ˈpleɪsmənt /"
+        },
+        {
+            "word": "platform",
+            "meaning": "平台,平台",
+            "correct": "/ ˈplætfɔːm /,/ ˈplætfɔːrm /"
+        },
+        {
+            "word": "pointer",
+            "meaning": "指标,指针",
+            "correct": "/ ˈpɔɪntə(r) /,/ ˈpɔɪntər /"
+        },
+        {
+            "word": "poll",
+            "meaning": "轮询,轮询",
+            "correct": "/ pəʊl /,/ poʊl /"
+        },
+        {
+            "word": "polymorphism",
+            "meaning": "多型,多态",
+            "correct": "/ ˌpɒlɪˈmɔːfɪz(ə)m /,/ ˌpɑlɪˈmɔrfɪzm /"
+        },
+        {
+            "word": "pop",
+            "meaning": "up,冒起式、弹出式,弹出式",
+            "correct": "/ pɒp /,/ pɑːp /"
+        },
+        {
+            "word": "port",
+            "meaning": "埠,端口",
+            "correct": "/ pɔːt /,/ pɔːrt /"
+        },
+        {
+            "word": "postfix",
+            "meaning": "后置式、后序式,后置式",
+            "correct": "/ pəʊstˈfɪks /,/ poʊstˈfɪks /"
+        },
+        {
+            "word": "precedence",
+            "meaning": "优先序(通常用於运算子的优先执行次序)",
+            "correct": "/ ˈpresɪdəns /,/ ˈpresɪdəns /"
+        },
+        {
+            "word": "prefix",
+            "meaning": "前置式、前序式,前置式",
+            "correct": "/ ˈpriːfɪks /,/ ˈpriːfɪks /"
+        },
+        {
+            "word": "preprocessor",
+            "meaning": "前处理器,预处理器",
+            "correct": "/ ˌpriːˈprəʊsesə /"
+        },
+        {
+            "word": "prime",
+            "meaning": "质数,素数",
+            "correct": "/ praɪm /,/ praɪm /"
+        },
+        {
+            "word": "primitive",
+            "meaning": "type,基本型别,(不同於,base,class,基础类别)",
+            "correct": "/ ˈprɪmətɪv /,/ ˈprɪmətɪv /"
+        },
+        {
+            "word": "print",
+            "meaning": "列印,打印",
+            "correct": "/ prɪnt /,/ prɪnt /"
+        },
+        {
+            "word": "printer",
+            "meaning": "印表机,打印机",
+            "correct": "/ ˈprɪntə(r) /,/ ˈprɪntər /"
+        },
+        {
+            "word": "priority",
+            "meaning": "优先权,(通常用於执行绪获得,cpu,时间的优先次序)",
+            "correct": "/ praɪˈɒrəti /,/ praɪˈɔːrəti /"
+        },
+        {
+            "word": "procedure",
+            "meaning": "程序,过程",
+            "correct": "/ prəˈsiːdʒə(r) /,/ prəˈsiːdʒər /"
+        },
+        {
+            "word": "procedural",
+            "meaning": "程序性的、程序式的,过程式的、过程化的",
+            "correct": "/ prəˈsiːdʒərəl /,/ prəˈsiːdʒərəl /"
+        },
+        {
+            "word": "process",
+            "meaning": "行程,进程",
+            "correct": "/ ˈprəʊses /,/ ˈprɑːses /"
+        },
+        {
+            "word": "profile",
+            "meaning": "评测,评测",
+            "correct": "/ ˈprəʊfaɪl /,/ ˈproʊfaɪl /"
+        },
+        {
+            "word": "profiler",
+            "meaning": "效能(效率)评测器,效能(性能)评测器",
+            "correct": "/ ˈprəʊfaɪlə(r) /,/ ˈproʊfaɪlər /"
+        },
+        {
+            "word": "programmer",
+            "meaning": "程式员,程序员",
+            "correct": "/ ˈprəʊɡræmə(r) /,/ ˈproʊɡræmər /"
+        },
+        {
+            "word": "programming",
+            "meaning": "编程、程式设计、程式化,编程",
+            "correct": "/ ˈprəʊɡræmɪŋ /,/ ˈproʊɡræmɪŋ /"
+        },
+        {
+            "word": "progress",
+            "meaning": "bar,进度指示器,进度指示器",
+            "correct": "/ ˈprəʊɡres /,/ ˈprɑːɡres /"
+        },
+        {
+            "word": "project",
+            "meaning": "专案,项目、工程",
+            "correct": "/ ˈprɒdʒekt /,/ ˈprɑːdʒekt /"
+        },
+        {
+            "word": "property",
+            "meaning": "属性",
+            "correct": "/ ˈprɒpəti /,/ ˈprɑːpərti /"
+        },
+        {
+            "word": "protocol",
+            "meaning": "协定,协议",
+            "correct": "/ ˈprəʊtəkɒl /,/ ˈproʊtəkɑːl /"
+        },
+        {
+            "word": "pseudo",
+            "meaning": "code,假码、虚拟码、伪码,伪码",
+            "correct": "/ ˈsuːdəʊ; ˈsjuːdəʊ /,/ ˈsuːdoʊ /"
+        },
+        {
+            "word": "qualified",
+            "meaning": "经过资格修饰(例如加上,scope,运算子),限定",
+            "correct": "/ ˈkwɒlɪfaɪd /,/ ˈkwɑːlɪfaɪd /"
+        },
+        {
+            "word": "qualifier",
+            "meaning": "资格修饰词、饰词,限定修饰词",
+            "correct": "/ ˈkwɒlɪfaɪə(r) /,/ ˈkwɑːlɪfaɪər /"
+        },
+        {
+            "word": "quality",
+            "meaning": "品质,质量",
+            "correct": "/ ˈkwɒləti /,/ ˈkwɑːləti /"
+        },
+        {
+            "word": "queue",
+            "meaning": "伫列,队列",
+            "correct": "/ kjuː /,/ kjuː /"
+        },
+        {
+            "word": "radian",
+            "meaning": "径度,弧度",
+            "correct": "/ ˈreɪdiən /,/ ˈreɪdiən /"
+        },
+        {
+            "word": "radio",
+            "meaning": "button,圆钮,单选按钮",
+            "correct": "/ ˈreɪdiəʊ /,/ ˈreɪdioʊ /"
+        },
+        {
+            "word": "raise",
+            "meaning": "引发(常用来表示发出一个,exception),引起、引发",
+            "correct": "/ reɪz /,/ reɪz /"
+        },
+        {
+            "word": "random",
+            "meaning": "number,随机数、乱数,随机数",
+            "correct": "/ ˈrændəm /,/ ˈrændəm /"
+        },
+        {
+            "word": "range",
+            "meaning": "范围、区间(用於,stl,时),范围、区间",
+            "correct": "/ reɪndʒ /,/ reɪndʒ /"
+        },
+        {
+            "word": "rank",
+            "meaning": "等级、分等(ref.,c++primer,3/e,9,15章),等级",
+            "correct": "/ ræŋk /,/ ræŋk /"
+        },
+        {
+            "word": "raw",
+            "meaning": "生鲜的、未经处理的,未经处理的",
+            "correct": "/ rɔː /,/ rɔː /"
+        },
+        {
+            "word": "record",
+            "meaning": "记录,记录",
+            "correct": "/ ˈrekɔːd /,/ ˈrekərd /"
+        },
+        {
+            "word": "recordset",
+            "meaning": "记录集,记录集",
+            "correct": "/ ˈrekɒdset /,/ ˈrekɑːdset /"
+        },
+        {
+            "word": "recursive",
+            "meaning": "递回,递归",
+            "correct": "/ rɪˈkɜːsɪv /,/ rɪˈkɜːrsɪv /"
+        },
+        {
+            "word": "re-direction",
+            "meaning": "重导向,重定向",
+            "correct": "/ ˌriː dəˈrekʃn; ˌriː daɪˈrekʃn /"
+        },
+        {
+            "word": "refactoring",
+            "meaning": "重构、重整,重构",
+            "correct": ""
+        },
+        {
+            "word": "refer",
+            "meaning": "取用,叁考",
+            "correct": "/ rɪˈfɜː(r) /,/ rɪˈfɜːr /"
+        },
+        {
+            "word": "refer",
+            "meaning": "to,指向、指涉、指代",
+            "correct": "/ rɪˈfɜː(r) /,/ rɪˈfɜːr /"
+        },
+        {
+            "word": "reference",
+            "meaning": "(c++,中类似指标的东西，相当於,\"化身\"),引用、叁考",
+            "correct": "/ ˈrefrəns /,/ ˈrefrəns /"
+        },
+        {
+            "word": "register",
+            "meaning": "暂存器,寄存器",
+            "correct": "/ ˈredʒɪstə(r) /,/ ˈredʒɪstər /"
+        },
+        {
+            "word": "reflection",
+            "meaning": "反射,反射、映像",
+            "correct": "/ rɪˈflekʃ(ə)n /,/ rɪˈflekʃ(ə)n /"
+        },
+        {
+            "word": "relational",
+            "meaning": "database,关联式资料库,关系数据库",
+            "correct": "/ rɪˈleɪʃənl /,/ rɪˈleɪʃənl /"
+        },
+        {
+            "word": "represent",
+            "meaning": "表述，表现,表述，表现",
+            "correct": "/ ˌreprɪˈzent /,/ ˌreprɪˈzent /"
+        },
+        {
+            "word": "resolve",
+            "meaning": "决议(为算式中的符号名称寻找,解析",
+            "correct": "/ rɪˈzɒlv /,/ rɪˈzɑːlv /"
+        },
+        {
+            "word": "resolution",
+            "meaning": "决议程序、决议过程,解析过程",
+            "correct": "/ ˌrezəˈluːʃ(ə)n /,/ ˌrezəˈluːʃ(ə)n /"
+        },
+        {
+            "word": "resolution",
+            "meaning": "解析度,分辨率",
+            "correct": "/ ˌrezəˈluːʃ(ə)n /,/ ˌrezəˈluːʃ(ə)n /"
+        },
+        {
+            "word": "restriction",
+            "meaning": "局限",
+            "correct": "/ rɪˈstrɪkʃ(ə)n /,/ rɪˈstrɪkʃ(ə)n /"
+        },
+        {
+            "word": "return",
+            "meaning": "传回、回返,返回",
+            "correct": "/ rɪˈtɜːn /,/ rɪˈtɜːrn /"
+        },
+        {
+            "word": "return",
+            "meaning": "type,回返型别,返回类型",
+            "correct": "/ rɪˈtɜːn /,/ rɪˈtɜːrn /"
+        },
+        {
+            "word": "return",
+            "meaning": "value,回返值,返回值",
+            "correct": "/ rɪˈtɜːn /,/ rɪˈtɜːrn /"
+        },
+        {
+            "word": "robust",
+            "meaning": "强固、稳健,健壮",
+            "correct": "/ rəʊˈbʌst /,/ roʊˈbʌst /"
+        },
+        {
+            "word": "robustness",
+            "meaning": "强固性、稳健性,健壮性",
+            "correct": "/ rəʊˈbʌstnəs /,/ roʊˈbʌstnəs /"
+        },
+        {
+            "word": "routine",
+            "meaning": "常式,例程",
+            "correct": "/ ruːˈtiːn /,/ ruːˈtiːn /"
+        },
+        {
+            "word": "runtime",
+            "meaning": "执行期,运行期、运行时",
+            "correct": "/ ˈrʌntaɪm /,/ ˈrʌntaɪm /"
+        },
+        {
+            "word": "common",
+            "meaning": "language,runtime,(clr),译为「通用语言执行层」",
+            "correct": "/ ˈkɒmən /,/ ˈkɑːmən /"
+        },
+        {
+            "word": "rvalue",
+            "meaning": "右值,右值",
+            "correct": ""
+        },
+        {
+            "word": "save",
+            "meaning": "储存,存储",
+            "correct": "/ seɪv /,/ seɪv /"
+        },
+        {
+            "word": "schedule",
+            "meaning": "排程,调度",
+            "correct": "/ ˈʃedjuːl /,/ ˈskedʒuːl /"
+        },
+        {
+            "word": "scheduler",
+            "meaning": "排程器,调度程序",
+            "correct": "/ ˈʃedjuːlə(r) /,/ ˈskedʒuːlər /"
+        },
+        {
+            "word": "scheme",
+            "meaning": "结构纲目、组织纲目",
+            "correct": "/ skiːm /,/ skiːm /"
+        },
+        {
+            "word": "scroll",
+            "meaning": "bar,卷轴,滚动条",
+            "correct": "/ skrəʊl /,/ skroʊl /"
+        },
+        {
+            "word": "scope",
+            "meaning": "生存空间、生存范围、范畴、作用域,生存空间",
+            "correct": "/ skəʊp /,/ skoʊp /"
+        },
+        {
+            "word": "scope",
+            "meaning": "operator,生存空间(范围决议)运算子,::,生存空间操作符",
+            "correct": "/ skəʊp /,/ skoʊp /"
+        },
+        {
+            "word": "scope",
+            "meaning": "resolution,operator",
+            "correct": "/ skəʊp /,/ skoʊp /"
+        },
+        {
+            "word": "screen",
+            "meaning": "萤幕,屏幕",
+            "correct": "/ skriːn /,/ skriːn /"
+        },
+        {
+            "word": "search",
+            "meaning": "搜寻,查找",
+            "correct": "/ sɜːtʃ /,/ sɜːrtʃ /"
+        },
+        {
+            "word": "semantics",
+            "meaning": "语意,语义",
+            "correct": "/ sɪˈmæntɪks /,/ sɪˈmæntɪks /"
+        },
+        {
+            "word": "sequential",
+            "meaning": "container,序列式容器,顺序式容器",
+            "correct": "/ sɪˈkwenʃ(ə)l /,/ sɪˈkwenʃ(ə)l /"
+        },
+        {
+            "word": "server",
+            "meaning": "伺服器、伺服端,服务器、服务端",
+            "correct": "/ ˈsɜːvə(r) /,/ ˈsɜːrvər /"
+        },
+        {
+            "word": "serial",
+            "meaning": "串行",
+            "correct": "/ ˈsɪəriəl /,/ ˈsɪriəl /"
+        },
+        {
+            "word": "serialization",
+            "meaning": "次第读写,序列化,序列化",
+            "correct": "/ ˌsɪəriəlaɪˈzeɪʃn /,/ ˌsɪriələˈzeɪʃn /"
+        },
+        {
+            "word": "setter",
+            "meaning": "(相对於,getter),设值函式",
+            "correct": "/ ˈsetə(r) /,/ ˈsetər /"
+        },
+        {
+            "word": "signal",
+            "meaning": "信号",
+            "correct": "/ ˈsɪɡnəl /,/ ˈsɪɡnəl /"
+        },
+        {
+            "word": "signature",
+            "meaning": "标记式、签名式、署名式,签名",
+            "correct": "/ ˈsɪɡnətʃə(r) /,/ ˈsɪɡnətʃər /"
+        },
+        {
+            "word": "slider",
+            "meaning": "滚轴,滑块",
+            "correct": "/ ˈslaɪdə(r) /,/ ˈslaɪdər /"
+        },
+        {
+            "word": "slot",
+            "meaning": "条孔、槽,槽",
+            "correct": "/ slɒt /,/ slɑːt /"
+        },
+        {
+            "word": "smart",
+            "meaning": "pointer,灵巧指标、精灵指标,智能指针",
+            "correct": "/ smɑːt /,/ smɑːrt /"
+        },
+        {
+            "word": "snapshot",
+            "meaning": "萤幕快照(图),屏幕截图",
+            "correct": "/ ˈsnæpʃɒt /,/ ˈsnæpʃɑːt /"
+        },
+        {
+            "word": "specialization",
+            "meaning": "特殊化、特殊化定义、特殊化宣告,特化",
+            "correct": "/ ˌspeʃəlaɪˈzeɪʃ(ə)n /,/ ˌspeʃələˈzeɪʃ(ə)n /"
+        },
+        {
+            "word": "specification",
+            "meaning": "规格,规格、规范",
+            "correct": "/ ˌspesɪfɪˈkeɪʃ(ə)n /,/ ˌspesɪfɪˈkeɪʃ(ə)n /"
+        },
+        {
+            "word": "splitter",
+            "meaning": "分裂视窗,切分窗口",
+            "correct": "/ ˈsplɪtə(r) /,/ ˈsplɪtər /"
+        },
+        {
+            "word": "software",
+            "meaning": "软体,软件",
+            "correct": "/ ˈsɒftweə(r) /,/ ˈsɔːftwer /"
+        },
+        {
+            "word": "solution",
+            "meaning": "解法,解决方案,方案",
+            "correct": "/ səˈluːʃ(ə)n /,/ səˈluːʃ(ə)n /"
+        },
+        {
+            "word": "source",
+            "meaning": "原始码,源码、源代码",
+            "correct": "/ sɔːs /,/ sɔːrs /"
+        },
+        {
+            "word": "stack",
+            "meaning": "堆叠,栈",
+            "correct": "/ stæk /,/ stæk /"
+        },
+        {
+            "word": "stack",
+            "meaning": "unwinding,堆叠辗转开解(此词用於,exception,主题),栈辗转开解,*",
+            "correct": "/ stæk /,/ stæk /"
+        },
+        {
+            "word": "standard",
+            "meaning": "library,标准程式库",
+            "correct": "/ ˈstændəd /,/ ˈstændərd /"
+        },
+        {
+            "word": "standard",
+            "meaning": "template,library,标准模板程式库",
+            "correct": "/ ˈstændəd /,/ ˈstændərd /"
+        },
+        {
+            "word": "statement",
+            "meaning": "述句,语句、声明",
+            "correct": "/ ˈsteɪtmənt /,/ ˈsteɪtmənt /"
+        },
+        {
+            "word": "status",
+            "meaning": "bar,状态列、状态栏,状态条",
+            "correct": "/ ˈsteɪtəs /,/ ˈsteɪtəs /"
+        },
+        {
+            "word": "stl",
+            "meaning": "见,standard,template,library",
+            "correct": ""
+        },
+        {
+            "word": "stream",
+            "meaning": "资料流、串流,流",
+            "correct": "/ striːm /,/ striːm /"
+        },
+        {
+            "word": "string",
+            "meaning": "字串,字符串",
+            "correct": "/ strɪŋ /,/ strɪŋ /"
+        },
+        {
+            "word": "subroutine",
+            "meaning": "",
+            "correct": "/ ˈsʌbruːtiːn /,/ ˈsʌbruːtiːn /"
+        },
+        {
+            "word": "subscript",
+            "meaning": "operator,下标运算子,[,],下标操作符",
+            "correct": "/ ˈsʌbskrɪpt /,/ ˈsʌbskrɪpt /"
+        },
+        {
+            "word": "subtype",
+            "meaning": "子型别,子类型",
+            "correct": "/ ˈsʌbˌtaɪp /,/ ˈsʌbˌtaɪp /"
+        },
+        {
+            "word": "support",
+            "meaning": "支援,支持",
+            "correct": "/ səˈpɔːt /,/ səˈpɔːrt /"
+        },
+        {
+            "word": "suspend",
+            "meaning": "虚悬,挂起",
+            "correct": "/ səˈspend /,/ səˈspend /"
+        },
+        {
+            "word": "symbol",
+            "meaning": "符号,记号",
+            "correct": "/ ˈsɪmb(ə)l /,/ ˈsɪmb(ə)l /"
+        },
+        {
+            "word": "syntax",
+            "meaning": "语法,语法",
+            "correct": "/ ˈsɪntæks /,/ ˈsɪntæks /"
+        },
+        {
+            "word": "tag",
+            "meaning": "标签,标记",
+            "correct": "/ tæɡ /,/ tæɡ /"
+        },
+        {
+            "word": "target",
+            "meaning": "标的(例,target,pointer：标的指标),目标",
+            "correct": "/ ˈtɑːɡɪt /,/ ˈtɑːrɡɪt /"
+        },
+        {
+            "word": "task",
+            "meaning": "switch,工作切换,任务切换",
+            "correct": "/ tɑːsk /,/ tæsk /"
+        },
+        {
+            "word": "template",
+            "meaning": "模板、范本,模板",
+            "correct": "/ ˈtempleɪt /,/ ˈtemplət /"
+        },
+        {
+            "word": "template",
+            "meaning": "argument,deduction,模板引数推导,模板叁数推导",
+            "correct": "/ ˈtempleɪt /,/ ˈtemplət /"
+        },
+        {
+            "word": "template",
+            "meaning": "explicit,specialization,模板显式特化(版本),模板显式特化",
+            "correct": "/ ˈtempleɪt /,/ ˈtemplət /"
+        },
+        {
+            "word": "template",
+            "meaning": "parameter,模板叁数,模板叁数",
+            "correct": "/ ˈtempleɪt /,/ ˈtemplət /"
+        },
+        {
+            "word": "temporary",
+            "meaning": "object,暂时物件,临时对象",
+            "correct": "/ ˈtemprəri /,/ ˈtempəreri /"
+        },
+        {
+            "word": "text",
+            "meaning": "文字,文本",
+            "correct": "/ tekst /,/ tekst /"
+        }
+    ]
+}

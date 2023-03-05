@@ -1,561 +1,561 @@
 {
     "name": "中国程序员容易发音错误的单词",
-    "description": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "description": "https://github.com/shimohq/chinese-programmer-wrong-correct",
     "words": [
         {
             "word": "access",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "入口，通道；获得的机会，使用权；（对计算机存储器的）访问，存取；（情感）爆发，发作；探视权",
+            "correct": "/ ˈækses /,/ ˈækses /"
         },
         {
             "word": "admin",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "<非正式>行政，管理（=administration）",
+            "correct": "/ ˈædmɪn /,/ ˈædmɪn /"
         },
         {
             "word": "Adobe",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "美国 Adobe 公司（著名的图形图像和排版软件的生产商）",
+            "correct": "/ əˈdəʊbi /,/ əˈdoʊbi /"
         },
         {
             "word": "adversarial",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "对抗的；对手的，敌手的",
+            "correct": "/ ˌædvəˈseəriəl /,/ ˌædvərˈseriəl /"
         },
         {
             "word": "agile",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（动作）敏捷的，灵活的；（思维）机敏的，机灵的；表示项目管理方法的",
+            "correct": "/ ˈædʒaɪl /,/ ˈædʒ(ə)l /"
         },
         {
             "word": "AJAX",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "创建交互式 Web 应用程序而无需牺牲浏览器兼容性的流行方法（Asynchronous JavaScript and XML）；爵士白；铅青铜轴承合金",
+            "correct": "/ ˈeɪdʒæks /,/ ˈeɪdʒæks /"
         },
         {
             "word": "alias",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "又名，化名（尤指演员或罪犯）",
+            "correct": "/ ˈeɪliəs /,/ ˈeɪliəs /"
         },
         {
             "word": "amazon",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "亚马逊；古希腊女战士",
+            "correct": "/ ˈæməzən /,/ ˈæməzɑːn /"
         },
         {
             "word": "analogy",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "类比，比拟；用类比方法，进行比照；同功",
+            "correct": "/ əˈnælədʒi /,/ əˈnælədʒi /"
         },
         {
             "word": "Angular",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "[生物] 有角的；生硬的，笨拙的；瘦削的",
+            "correct": "/ ˈæŋɡjələ(r) /,/ ˈæŋɡjələr /"
         },
         {
             "word": "Apache",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "阿帕切族（美洲印第安部族）",
+            "correct": "/ əˈpætʃi /,/ əˈpætʃi /"
         },
         {
             "word": "app",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（计算机）应用程序，应用软件；<美，非正式>开胃菜",
+            "correct": "/ æp /,/ æp /"
         },
         {
             "word": "archive",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "存档材料，档案；档案室",
+            "correct": "/ ˈɑːkaɪv /,/ ˈɑːrkaɪv /"
         },
         {
             "word": "array",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "一系列，大量；数组，阵列；盛装",
+            "correct": "/ əˈreɪ /,/ əˈreɪ /"
         },
         {
             "word": "ASCII",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "美国信息交换标准码（American Standard Code for Information Interchange）",
+            "correct": "/ ˈæski /,/ ˈæski /"
         },
         {
             "word": "aspect",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "方面，特色；朝向，方位；外表，外观；（动词的）体",
+            "correct": "/ ˈæspekt /,/ ˈæspekt /"
         },
         {
             "word": "async",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "异步，非同步（asynchronous）",
+            "correct": "/ əˈsɪŋk /,/ əˈsɪŋk /"
         },
         {
             "word": "avatar",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "化身（印度教中化作人形或兽形的神）；（人或思想的）化身，体现；（在电脑游戏或网络中代表使用者的）图标，头像；<正式>代表人物；化身（印度教中化作人形或兽形的神）",
+            "correct": "/ ˈævətɑː(r) /,/ ˈævətɑːr /"
         },
         {
             "word": "Azure",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "蔚蓝的，天蓝色的；（纹章）蓝色的",
+            "correct": "/ ˈæʒə(r) /,/ ˈæʒər /"
         },
         {
             "word": "bind",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "捆绑，系；包扎；使紧密联系；迫使，使负有义务（或责任）；（使）凝结，（使）粘合；装订；给……镶边，给……滚边；（量词）适用于（给定的变量）；（规则，语法条件）决定（共指名词词组）之间的关系；（食物，药品）使便秘",
+            "correct": "/ baɪnd /,/ baɪnd /"
         },
         {
             "word": "cache",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "隐藏处，秘窖；贮藏物，隐藏物（尤指武器）；高速缓冲存储器",
+            "correct": "/ kæʃ /,/ kæʃ /"
         },
         {
             "word": "Chrome",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "铬，铬合金；镀铬层；铬黄（chrome yellow）",
+            "correct": "/ krəʊm /,/ kroʊm /"
         },
         {
             "word": "clang",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "叮当声；铿锵声",
+            "correct": "/ klæŋ /,/ klæŋ /"
         },
         {
             "word": "Coq",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（法）公鸡",
+            "correct": "/ kɒk /,/ koʊk; kɑːk /"
         },
         {
             "word": "daemon",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "魔鬼，恶魔（同 demon）；守护进程；后台程序；虚拟光驱软件",
+            "correct": "/ ˈdiːmən /,/ ˈdiːmən /"
         },
         {
             "word": "debt",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "欠款，债务；负债情况；人情债",
+            "correct": "/ det /,/ det /"
         },
         {
             "word": "deny",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "否认；拒绝承认；拒绝给予",
+            "correct": "/ dɪˈnaɪ /,/ dɪˈnaɪ /"
         },
         {
             "word": "deprecate",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "反对；抨击；轻视；声明不赞成",
+            "correct": "/ ˈdeprəkeɪt /,/ ˈdeprəkeɪt /"
         },
         {
             "word": "deque",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "双端队列；双队列",
+            "correct": "/ dek /,/ dɛk /"
         },
         {
             "word": "digest",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "理解，领悟；消化",
+            "correct": "/ daɪˈdʒest /,/ daɪˈdʒest /"
         },
         {
             "word": "Dijkstra",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "迪杰斯特拉（姓氏）",
+            "correct": ""
         },
         {
             "word": "Django",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "姜戈，迪亚戈（人名）；用python语言写的开源web开发框架",
+            "correct": "/ ˈdʒæŋɡo /"
         },
         {
             "word": "doc",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "<非正式>医生，大夫（同 doctor）；<非正式>文件（同 document）",
+            "correct": "/ dɒk /,/ dɑːk /"
         },
         {
             "word": "dotnet",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "",
+            "correct": ""
         },
         {
             "word": "ephemeral",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "短暂的；（主指植物）短生的，短命的",
+            "correct": "/ ɪˈfemərəl /,/ ɪˈfemərəl /"
         },
         {
             "word": "epoch",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "时代，纪元；值得纪念的事件（或日期）；世（地质年代，纪下分世）；历元",
+            "correct": "/ ˈiːpɒk /,/ ˈepək /"
         },
         {
             "word": "event",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "事件，大事；社交场合，既定活动；赛事，比赛项目；<古>结果",
+            "correct": "/ ɪˈvent /,/ ɪˈvent /"
         },
         {
             "word": "execute",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "执行，实施；处决；完成，表演（高难度动作）；制作（艺术作品）；（计算机）执行指令（或程序）",
+            "correct": "/ ˈeksɪkjuːt /,/ ˈeksɪkjuːt /"
         },
         {
             "word": "executor",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "执行者；[法] 遗嘱执行人",
+            "correct": "/ ɪɡˈzekjətə(r) /,/ ɪɡˈzekjətər /"
         },
         {
             "word": "facade",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（建筑物的）正面，立面；假象，伪装",
+            "correct": "/ fəˈsɑːd /,/ fəˈsɑːd /"
         },
         {
             "word": "fedora",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "一种男式软呢帽",
+            "correct": "/ fɪˈdɔːrə /,/ fɪˈdɔːrə /"
         },
         {
             "word": "format",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "总体安排，计划，设计；（书或杂志的）开本，版式；（录像、激光唱片、磁带等的）格式",
+            "correct": "/ ˈfɔːmæt /,/ ˈfɔːrmæt /"
         },
         {
             "word": "gauge",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "测量仪器；宽度，厚度；（测量或判断的）尺度，标准；（铁道的）轨距；（枪管的）口径；（汽车）胎压计",
+            "correct": "/ ɡeɪdʒ /,/ ɡeɪdʒ /"
         },
         {
             "word": "Git",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "饭桶；卑鄙小人",
+            "correct": "/ ɡɪt /,/ ɡɪt /"
         },
         {
             "word": "GNU",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "[脊椎] 角马；[脊椎] 牛羚",
+            "correct": "/ nuː; njuː /,/ nuːˌnjuː /"
         },
         {
             "word": "Grafana",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "",
+            "correct": ""
         },
         {
             "word": "GraphQL",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "",
+            "correct": ""
         },
         {
             "word": "GUI",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "图形用户界面（Graphical User Interface）",
+            "correct": "/ ˈɡuːi; ˌdʒiː juː ˈaɪ /,/ ˈɡuːiˌˌdʒiː juː ˈaɪ /"
         },
         {
             "word": "Haskell",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "哈斯凯尔（男子名）",
+            "correct": ""
         },
         {
             "word": "height",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "身高；高；高度；高处，高地；极佳状况；极端例子",
+            "correct": "/ haɪt /,/ haɪt /"
         },
         {
             "word": "hidden",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "隐形的，隐秘的；不易察觉的，潜在的",
+            "correct": "/ ˈhɪd(ə)n /,/ ˈhɪd(ə)n /"
         },
         {
             "word": "image",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "形象，印象；影像，映像，图像；比喻，意象；画像，塑像，雕像；酷似另一个人的人；（人或事物）外形，外表；像点；硬盘备份；（圣经）偶像",
+            "correct": "/ ˈɪmɪdʒ /,/ ˈɪmɪdʒ /"
         },
         {
             "word": "implement",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "执行，贯彻；为……提供工具",
+            "correct": "/ ˈɪmplɪment /,/ ˈɪmplɪment /"
         },
         {
             "word": "integer",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "整数；完整物，统一体",
+            "correct": "/ ˈɪntɪdʒə(r) /,/ ˈɪntɪdʒər /"
         },
         {
             "word": "issue",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "议题，争论点；（报纸、杂志等的）期，号；发放，分配；（新股票或邮票等的）发行；子女，后嗣；流出，发出；<旧>结果，后果",
+            "correct": "/ ˈɪʃuː /,/ ˈɪʃuː /"
         },
         {
             "word": "Java",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "爪哇岛（位于印尼）; Sun 公司推出的一种应用程序开发语言",
+            "correct": "/ ˈdʒɑːvə /,/ ˈdʒɑːvə /"
         },
         {
             "word": "Jose",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "约瑟（人名）",
+            "correct": "/ həʊˈzeɪ /,/ hoʊˈzeɪ /"
         },
         {
             "word": "jpg",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "一种图像压缩格式（Joint Picture Group）",
+            "correct": ""
         },
         {
             "word": "key",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "钥匙；（电脑、打字机或乐器的）键；关键，要诀；答案；音调，声调；图例，符号说明；低岛，礁；扳手；销子，楔；（文章、形势等）主调，基调；（梣树、枫树或无花果树的）翼果；板条间首层灰泥；（有助于石膏等黏附的）粗糙表面；罚球区",
+            "correct": "/ kiː /,/ kiː /"
         },
         {
             "word": "Kubernetes",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "n.一个开源容器编排系统",
+            "correct": ""
         },
         {
             "word": "lambda",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "希腊字母的第11个；星座中第11颗星；λ噬菌体（基因研究中所用的噬菌体病毒）；人字缝尖；（生化）λ链",
+            "correct": "/ ˈlæmdə /,/ ˈlæmdə /"
         },
         {
             "word": "Ldap",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "轻量级目录访问协议（Lightweight Directory Access Protocol）",
+            "correct": ""
         },
         {
             "word": "linear",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "直线的，线性的；长度的；连续的，连贯的；（关系）直接的，明显的",
+            "correct": "/ ˈlɪniə(r) /,/ ˈlɪniər /"
         },
         {
             "word": "LINQ",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "语言集成查询（Language Integrated Query）",
+            "correct": ""
         },
         {
             "word": "Linux",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "Linux操作系统（一种类似于UNIX的计算机操作系统）",
+            "correct": "/ ˈlɪn.əks /,/ ˈlɪn.əks /"
         },
         {
             "word": "locale",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（事情发生的）地点，现场",
+            "correct": "/ ləʊˈkɑːl /,/ loʊˈkæl /"
         },
         {
             "word": "Lucene",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "一个全文搜索引擎",
+            "correct": ""
         },
         {
             "word": "main",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "主要的，最大的",
+            "correct": "/ meɪn /,/ meɪn /"
         },
         {
             "word": "margin",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "页边空白；差额，幅度；盈余，利润；余地，备用的时间（或空间、金钱等）；边缘，非主体部分；保证金，押金；<澳新>额外报酬",
+            "correct": "/ ˈmɑːdʒɪn /,/ ˈmɑːrdʒɪn /"
         },
         {
             "word": "matrix",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "矩阵；模型；社会环境；（骨头、牙齿和指甲等身体器官的）母体，基质；脉石；矩阵转接电路；线路网，道路网；精细材料；交叉结构",
+            "correct": "/ ˈmeɪtrɪks /,/ ˈmeɪtrɪks /"
         },
         {
             "word": "maven",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "内行，专家",
+            "correct": "/ ˈmeɪvn /,/ ˈmeɪvn /"
         },
         {
             "word": "Microsoft",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "微软公司（全球知名的 PC 软件主要厂商）",
+            "correct": "/ ˈmaɪkrəsɒft /,/ ˈmaɪkrəsɔːft /"
         },
         {
             "word": "miscellaneous",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（人，物）混杂的，各种各样的；多方面的，多才多艺的",
+            "correct": "/ ˌmɪsəˈleɪniəs /,/ ˌmɪsəˈleɪniəs /"
         },
         {
             "word": "module",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（机器、建筑物等的）组件，模件；（课程的）单元，模块；（计算机）模件，功能块；（航天器的）舱",
+            "correct": "/ ˈmɒdjuːl /,/ ˈmɑːdʒuːl /"
         },
         {
             "word": "nginx",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "一款反向代理网页服务器",
+            "correct": ""
         },
         {
             "word": "null",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "无约束力的，无效的；零值的，等于零的；（数）（集合，矩阵）空的，元素只有零的；无特征的，无内涵的",
+            "correct": "/ nʌl /,/ nʌl /"
         },
         {
             "word": "obsolete",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "淘汰的，废弃的；（生物特征的一部分）退化的",
+            "correct": "/ ˈɒbsəliːt /,/ ˌɑːbsəˈliːt /"
         },
         {
             "word": "OS-X",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "OS X（苹果操作系统）",
+            "correct": ""
         },
         {
             "word": "parameter",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "界限，范围；参数，变量；（统计）人口参数",
+            "correct": "/ pəˈræmɪtə(r) /,/ pəˈræmɪtər /"
         },
         {
             "word": "phantom",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "幽灵，鬼魂；幻觉，幻象；渺茫；为诈骗而捏造的财务安排（或金融交易）",
+            "correct": "/ ˈfæntəm /,/ ˈfæntəm /"
         },
         {
             "word": "privilege",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "特权，特殊待遇；荣幸，光荣；（富人或上层阶级的）权势；（律师、医生及其他专业人士的）保密权；言行免责权（尤指议员的权利）；<史>（授予个人，公司，某地的）特许经营权；（生活）优越",
+            "correct": "/ ˈprɪvəlɪdʒ /,/ ˈprɪvəlɪdʒ /"
         },
         {
             "word": "Prometheus",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "普罗米修斯（希腊神话中的提坦神之一，与智慧女神雅典娜共同创造了人类）；（天）土卫十六",
+            "correct": "/ proˈmiθɪəs /"
         },
         {
             "word": "putty",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "油灰；氧化锡",
+            "correct": "/ ˈpʌti /,/ ˈpʌti /"
         },
         {
             "word": "Qt",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "夸脱（液量单位，quart）；鉴定试验（Qualification Test）",
+            "correct": "/ ˌkjuː ˈtiː  /"
         },
         {
             "word": "query",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "疑问，询问；问号",
+            "correct": "/ ˈkwɪəri /,/ ˈkwɪri /"
         },
         {
             "word": "Realm",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（知识、活动、思想的）领域，范围；<正式>王国；（动物学）界（对地球表面所作的最主要的生物地理划分）",
+            "correct": "/ relm /,/ relm /"
         },
         {
             "word": "reconcile",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "调和，使协调一致；（使）和解，（使）恢复友好关系；调停，调解（争吵）；使顺从于，使接受；核对，查核（账目）",
+            "correct": "/ ˈrekənsaɪl /,/ ˈrekənsaɪl /"
         },
         {
             "word": "Redux",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（美、印）里德斯（人名）",
+            "correct": "/ ˈriːdʌks /,/ ˈriːdʌks /"
         },
         {
             "word": "resolved",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "下定决心的，坚决的",
+            "correct": "/ rɪˈzɒlvd /,/ rɪˈzɑːlvd /"
         },
         {
             "word": "resort",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "旅游胜地，度假胜地；求助的方法，采用的手段；采用，诉诸，求助",
+            "correct": "/ rɪˈzɔːt /,/ rɪˈzɔːrt /"
         },
         {
             "word": "resume",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "恢复（职位），回到（座位）；继续说，接着说；概述；（中断后）重新开始，继续",
+            "correct": "/ rɪˈzjuːm /,/ rɪˈzuːm /"
         },
         {
             "word": "retina",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "[解剖] 视网膜",
+            "correct": "/ ˈretɪnə /,/ ˈretɪnə /"
         },
         {
             "word": "route",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "路线，航线；道路，路途；常规路线，固定路线；<美>（尤指作为送货工作的）例行拜访，递送路线；途径，方法；（用于美国城市间干线公路编号前）公路（Route）",
+            "correct": "/ ruːt /,/ ruːt /"
         },
         {
             "word": "safari",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（尤指在东非的）观兽旅行，游猎；<东非>长途旅行，旅游期间，外出期间",
+            "correct": "/ səˈfɑːri /,/ səˈfɑːri /"
         },
         {
             "word": "San",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "疗养院（sanatorium）",
+            "correct": "/ sæn; sɑːn /,/ sæn /"
         },
         {
             "word": "scala",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（Scala）（美、巴、法）斯卡拉（人名）",
+            "correct": ""
         },
         {
             "word": "scheme",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "<英>（政府或其他组织的）计划，方案；（用于组织或整理信息的）系统，体系；组合，布局；阴谋，诡计；<苏格兰，非正式>社会住宅区",
+            "correct": "/ skiːm /,/ skiːm /"
         },
         {
             "word": "segue",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（音乐、电影）无间断继续，切换；转到，接入；转入",
+            "correct": "/ ˈseɡweɪ /,/ ˈseɡweɪ /"
         },
         {
             "word": "SQL",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "结构化查询语言（Structured Query Language）",
+            "correct": ""
         },
         {
             "word": "sudo",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "（日）须籐（姓氏）",
+            "correct": ""
         },
         {
             "word": "suite",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "套房，套间；一套家具；组曲；（程序）组，套；一套产品；（君主或高官的）（一批）随员；（地质）系列矿石（或岩石、化石）",
+            "correct": "/ swiːt /,/ swiːt /"
         },
         {
             "word": "thymeleaf",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "一个现代服务器端 Java 模板引擎",
+            "correct": ""
         },
         {
             "word": "tuple",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "[计] 元组，重数",
+            "correct": "/ tjʊpəl; ˈtʌpəl /,/ ˈtjʊpəl; ˈtʌpəl /"
         },
         {
             "word": "typical",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "典型的，有代表性的；一贯的，平常的；不出所料，特有的；象征性的",
+            "correct": "/ ˈtɪpɪk(ə)l /,/ ˈtɪpɪk(ə)l /"
         },
         {
             "word": "Ubuntu",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "乌班图；一种 Linux 操作系统",
+            "correct": "/ ʊˈbʊntuː /,/ ʊˈbʊntuː /"
         },
         {
             "word": "Vagrant",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "流浪者，乞丐；离群鸟",
+            "correct": "/ ˈveɪɡrənt /,/ ˈveɪɡrənt /"
         },
         {
             "word": "variable",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "易变的，多变的；时好时坏的；可变的，可调节的；（数）（数字）变量的；（植，动）变异的，变型的；（齿轮）变速的",
+            "correct": "/ ˈveəriəb(ə)l /,/ ˈveriəb(ə)l /"
         },
         {
             "word": "verbose",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "冗长的；啰嗦的",
+            "correct": "/ vɜːˈbəʊs /,/ vɜːrˈboʊs /"
         },
         {
             "word": "vue",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "虚拟机脱壳引擎（Virtual Machine Unpack Engine）；可视用户环境（Visual User Environment）；真实用户环境（Veridical User Environment）；视图文件",
+            "correct": ""
         },
         {
             "word": "width",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "宽度，广度；（布料等）按尺寸剪裁的材料；（游泳池的）池宽；宽阔，宽大；整幅的东西",
+            "correct": "/ wɪdθ /,/ wɪdθ /"
         },
         {
             "word": "YouTube",
-            "translation": "",
-            "pronunciation": ""
+            "meaning": "视频网站（可以让用户免费上传、观赏、分享视频短片的热门视频共享网站）",
+            "correct": "/ ˈjuːtjuːb /,/ ˈjuːtuːb /"
         }
     ]
 }

@@ -75,7 +75,9 @@
                         <div class="field">
                             <label class="label">当前单词</label>
                             <div id="currentWordContainer">
-                                <p id="currentWord" style="margin: auto">请点击播放按钮...</p>
+                                <p id="currentWord" style="margin: auto;text-align: center;">请点击播放按钮...</p>
+                                <p id="currentCorrect" style="margin: auto;text-align: center;"></p>
+                                <p id="currentMeaning" style="margin: auto;text-align: center;"></p>
                             </div>
                             <progress id="progressBar" class="progress is-primary" value="0" max="100"></progress>
                         </div>
@@ -113,7 +115,7 @@
                                                       onchange="onRepeatNumberChange()"></span>
                                 </label>
                                 <label class="checkbox panel-item">
-                                    复读间隔：<span><input class="input" id="interval" type="number" value="100" min="0"
+                                    复读间隔：<span><input class="input" id="interval" type="number" value="1500" min="1000"
                                                       step="10"
                                                       style="height: 25px; width: 80px"
                                                       onchange="onIntervalChange()"></span>
@@ -123,7 +125,7 @@
                                     发音延时：<span><input class="input"
                                                       id="delay"
                                                       type="number"
-                                                      value="0" min="0"
+                                                      value="1000" min="1000"
                                                       step="100"
                                                       style="height: 25px; width: 80px"
                                                       onchange="onDelayChange()"></span>
@@ -162,7 +164,17 @@
 
             </div>
         </div>
-
+        <div class="normal-container" style="margin-top: -25px;">
+            <div class="box">
+                <!-- 写一个按钮,点击跳转到有道翻译页面 -->
+                <div class="field">
+                    <label class="label">有道翻译页面链接地址</label>
+                    <div class="control">
+                        <a id="youdaoword" href="https://dict.youdao.com/result?word=access&lang=en" target="_blank">https://dict.youdao.com/result?word=access&lang=en</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <footer class="footer" style="background-color: white">
         <div class="content has-text-centered">

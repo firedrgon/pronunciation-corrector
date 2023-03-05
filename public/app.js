@@ -32,6 +32,7 @@ async function init() {
   player = document.getElementById("player");
   progressBar = document.getElementById('progressBar');
   selectVocabularyElement = document.getElementById('selectVocabulary');
+  youdaoword = document.getElementById("youdaoword");
   whichVoice = localStorage.getItem('whichVoice');
   if (!whichVoice) {
     whichVoice = "youdao";
@@ -95,6 +96,7 @@ async function loadVocabulary(name) {
     vocabulary.progress = 0;
   } else {
     vocabulary = JSON.parse(vocabulary);
+    vocabulary.progress = 0;
   }
   return vocabulary;
 }
@@ -126,14 +128,20 @@ async function play() {
   }
 
   let word = vocabulary.words[vocabulary.progress].word;
+  let meaning = vocabulary.words[vocabulary.progress].meaning;
+  let correct = vocabulary.words[vocabulary.progress].correct;
   if (remainingRepeatNumber === repeatNumber) {
-    currentWord.innerText = word;
+    currentWord.innerText = `${word}`;
+    currentCorrect.innerText = correct;
+    currentMeaning.innerText = meaning;
     source.setAttribute('src', getAudioURL(word));
     await player.load();
     await new Promise(resolve => setTimeout(resolve, delay));
   }
   remainingRepeatNumber--;
   skipTimeout = setTimeout(playEnded, timeout);
+  youdaoword.setAttribute('href', `https://dict.youdao.com/result?word=${word}&lang=en`);
+  youdaoword.innerText = `https://dict.youdao.com/result?word=${word}&lang=en`;
   await player.play();  // if the player failed to load the audio, it will block here.
 }
 

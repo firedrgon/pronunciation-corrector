@@ -1,0 +1,1286 @@
+{
+    "name": "程序员英语词汇宝典",
+    "description": "https://learn-english.dev/",
+    "words": [
+        {
+            "word": "accordion",
+            "meaning": "可折叠的，褶叠的",
+            "correct": "/əˈkɔːrdiən/"
+        },
+        {
+            "word": "agile",
+            "meaning": "敏捷、灵活的",
+            "correct": "/ˈædʒl/"
+        },
+        {
+            "word": "agnostic",
+            "meaning": "不可知论的",
+            "correct": "/æɡˈnɑːstɪk/"
+        },
+        {
+            "word": "arbitrary",
+            "meaning": "任意的",
+            "correct": "/ˈɑːrbɪtreri/"
+        },
+        {
+            "word": "asynchronous",
+            "meaning": "异步的",
+            "correct": "/eɪˈsɪŋkrənəs/"
+        },
+        {
+            "word": "comprehensive",
+            "meaning": "综合的，广泛的",
+            "correct": "/ˌkɑːmprɪˈhensɪv/"
+        },
+        {
+            "word": "concrete",
+            "meaning": "具体的、有形的",
+            "correct": "/ˈkɑːnkriːt/"
+        },
+        {
+            "word": "concurrent",
+            "meaning": "并发的，同时发生的",
+            "correct": "/kənˈkɜːrənt/"
+        },
+        {
+            "word": "consultative",
+            "meaning": "咨询的",
+            "correct": "/kənˈsʌltətɪv/"
+        },
+        {
+            "word": "cost-effective",
+            "meaning": "有成本效益的，合算的",
+            "correct": "/ˌkɔːst ɪˈfektɪv/"
+        },
+        {
+            "word": "cost-efficient",
+            "meaning": "有成本效益的，合算的",
+            "correct": "/ˈkɔstiˈfiʃənt/"
+        },
+        {
+            "word": "critical",
+            "meaning": "关键的，重要的，批评的",
+            "correct": "/ˈkrɪtɪkl/"
+        },
+        {
+            "word": "crucial",
+            "meaning": "重要的，决定性的",
+            "correct": "/ˈkruːʃl/"
+        },
+        {
+            "word": "customized",
+            "meaning": "定制的，个性化的",
+            "correct": "/ˈkʌstəmaɪzd/"
+        },
+        {
+            "word": "declarative",
+            "meaning": "声明式",
+            "correct": "/dɪˌkler.ə.t̬ɪv/"
+        },
+        {
+            "word": "dedicated",
+            "meaning": "专属的",
+            "correct": "/ˈdedɪkeɪtɪd/"
+        },
+        {
+            "word": "deprecated",
+            "meaning": "弃用的",
+            "correct": "/ˈdɛprəˌketɪd/"
+        },
+        {
+            "word": "diversified",
+            "meaning": "多样化的",
+            "correct": "/daɪˈvɜrsɪfaɪd/"
+        },
+        {
+            "word": "elastic",
+            "meaning": "灵活有弹性的",
+            "correct": "/ɪˈlæstɪk/"
+        },
+        {
+            "word": "ephemeral",
+            "meaning": "短暂性的",
+            "correct": "/ɪˈfemərəl/"
+        },
+        {
+            "word": "explicit",
+            "meaning": "明确清楚的",
+            "correct": "/ɪkˈsplɪsɪt/"
+        },
+        {
+            "word": "granular",
+            "meaning": "颗粒的",
+            "correct": "/ˈɡrænjələr/"
+        },
+        {
+            "word": "heterogeneous",
+            "meaning": "由很多种类组成的，混杂的，各种各样的",
+            "correct": "/ˌhetərəˈdʒiːniəs/"
+        },
+        {
+            "word": "hierarchical",
+            "meaning": "分层的",
+            "correct": "/ˌhaɪəˈrɑːrkɪkl/"
+        },
+        {
+            "word": "immutable",
+            "meaning": "不变的",
+            "correct": "/ɪˈmjuːtəbl/"
+        },
+        {
+            "word": "imperative",
+            "meaning": "命令式",
+            "correct": "/ɪmˈper.ə.t̬ɪv/"
+        },
+        {
+            "word": "implicit",
+            "meaning": "含蓄的、含糊不清的",
+            "correct": "/ɪmˈplɪs.ɪt/"
+        },
+        {
+            "word": "incentive",
+            "meaning": "激励的，刺激的",
+            "correct": "/ɪnˈsentɪv/"
+        },
+        {
+            "word": "indecisive",
+            "meaning": "犹豫不决的",
+            "correct": "/ˌindi'saisiv/"
+        },
+        {
+            "word": "intermittent",
+            "meaning": "间歇的",
+            "correct": "/ˌɪntərˈmɪtənt/"
+        },
+        {
+            "word": "intrusive",
+            "meaning": "侵入式的",
+            "correct": "/ɪnˈtruːsɪv/"
+        },
+        {
+            "word": "intuitive",
+            "meaning": "直觉的",
+            "correct": "/ɪnˈtuːɪtɪv/"
+        },
+        {
+            "word": "mature",
+            "meaning": "成熟的",
+            "correct": "/məˈtʃʊr/"
+        },
+        {
+            "word": "mediocre",
+            "meaning": "普通的，平凡的",
+            "correct": "/ˌmiːdiˈoʊkər/"
+        },
+        {
+            "word": "miscellaneous",
+            "meaning": "混杂、各式各样的",
+            "correct": "/ˌmɪsəˈleɪniəs/"
+        },
+        {
+            "word": "mutable",
+            "meaning": "可变的",
+            "correct": "/ˈmjuːtəbl/"
+        },
+        {
+            "word": "on-premise",
+            "meaning": "预置的",
+            "correct": "/ɑːnˈpremɪs/"
+        },
+        {
+            "word": "permanent",
+            "meaning": "永久的",
+            "correct": "/ˈpɜːrmənənt/"
+        },
+        {
+            "word": "permissive",
+            "meaning": "宽容的",
+            "correct": "/pərˈmɪsɪv/"
+        },
+        {
+            "word": "rapid",
+            "meaning": "迅速的、飞快的",
+            "correct": "/ˈræpɪd/"
+        },
+        {
+            "word": "redacted",
+            "meaning": "经过编辑的",
+            "correct": "/rəˈdakt/"
+        },
+        {
+            "word": "resilient",
+            "meaning": "有弹力的、能恢复的",
+            "correct": "/rɪˈzɪliənt/"
+        },
+        {
+            "word": "respective",
+            "meaning": "分别的，各自的",
+            "correct": "/rɪˈspektɪv/"
+        },
+        {
+            "word": "retrospective",
+            "meaning": "追溯的、回顾的、复盘的",
+            "correct": "/ˌretrəˈspektɪv/"
+        },
+        {
+            "word": "robust",
+            "meaning": "强健的，顽健的",
+            "correct": "/roʊˈbʌst/"
+        },
+        {
+            "word": "seamless",
+            "meaning": "无缝的",
+            "correct": "/ˈsiːmləs/"
+        },
+        {
+            "word": "semantic",
+            "meaning": "语义的",
+            "correct": "/sɪˈmæntɪk/"
+        },
+        {
+            "word": "significant",
+            "meaning": "重大的，有意义的",
+            "correct": "/sɪɡˈnɪfɪkənt/"
+        },
+        {
+            "word": "sophisticated",
+            "meaning": "复杂的、富有经验的",
+            "correct": "/səˈfɪstɪkeɪtɪd/"
+        },
+        {
+            "word": "standalone",
+            "meaning": "单独的",
+            "correct": "/ˈstændəˌləun/"
+        },
+        {
+            "word": "subsequent",
+            "meaning": "随后的、之后的",
+            "correct": "/ˈsʌbsɪkwənt/"
+        },
+        {
+            "word": "substantial",
+            "meaning": "实质的",
+            "correct": "/səbˈstænʃl/"
+        },
+        {
+            "word": "subtle",
+            "meaning": "微小（但重要）的，微妙的",
+            "correct": "/ˈsʌt̬.əl/"
+        },
+        {
+            "word": "sustainable",
+            "meaning": "可持续的",
+            "correct": "/səˈsteɪnəbl/"
+        },
+        {
+            "word": "symmetric",
+            "meaning": "对称的",
+            "correct": "/sɪ'mɛtrɪk/"
+        },
+        {
+            "word": "synchronous",
+            "meaning": "同步的",
+            "correct": "/ˈsɪŋkrənəs/"
+        },
+        {
+            "word": "thrilled",
+            "meaning": "非常兴奋的",
+            "correct": "/θrɪld/"
+        },
+        {
+            "word": "underlying",
+            "meaning": "在下面的，潜在的，深层的",
+            "correct": "/ˌʌndərˈlaɪɪŋ/"
+        },
+        {
+            "word": "aggregate",
+            "meaning": "聚合，整合",
+            "correct": "/ˈæɡrɪɡət/"
+        },
+        {
+            "word": "allocate",
+            "meaning": "分配",
+            "correct": "/ˈæləkeɪt/"
+        },
+        {
+            "word": "analyze",
+            "meaning": "分析",
+            "correct": "/ˈænəlaɪz/"
+        },
+        {
+            "word": "capture",
+            "meaning": "捕捉、抓取",
+            "correct": "/ˈkæptʃər/"
+        },
+        {
+            "word": "concatenate",
+            "meaning": "连接",
+            "correct": "/kɑnˈkætəˌnet/"
+        },
+        {
+            "word": "decouple",
+            "meaning": "解耦，使分离",
+            "correct": "/diːˈkʌpl/"
+        },
+        {
+            "word": "differentiate",
+            "meaning": "区分",
+            "correct": "/ˌdɪfəˈrenʃieɪt/"
+        },
+        {
+            "word": "embrace",
+            "meaning": "拥抱、接受",
+            "correct": "/ɪmˈbreɪs/"
+        },
+        {
+            "word": "encapsulate",
+            "meaning": "压缩、封装",
+            "correct": "/ɪnˈkæpsjuleɪt/"
+        },
+        {
+            "word": "escalate",
+            "meaning": "升级",
+            "correct": "/ˈeskəleɪt/"
+        },
+        {
+            "word": "impersonate",
+            "meaning": "扮演，模仿",
+            "correct": "/ɪmˈpɜːrsəneɪt/"
+        },
+        {
+            "word": "introspect",
+            "meaning": "自解析，自省",
+            "correct": "/ˌɪntrə'spɛkt/"
+        },
+        {
+            "word": "leverage",
+            "meaning": "借用、利用",
+            "correct": "/ˈlevərɪdʒ/"
+        },
+        {
+            "word": "marry",
+            "meaning": "结合、联合",
+            "correct": "/ˈmæri/"
+        },
+        {
+            "word": "mitigate",
+            "meaning": "减轻，缓和",
+            "correct": "/ˈmɪtɪɡeɪt/"
+        },
+        {
+            "word": "monetize",
+            "meaning": "货币化",
+            "correct": "/ˈmɑːnɪtaɪz/"
+        },
+        {
+            "word": "optimize",
+            "meaning": "优化",
+            "correct": "/ˈɑːptɪmaɪz/"
+        },
+        {
+            "word": "populate",
+            "meaning": "输入数据",
+            "correct": "/ˈpɑːpjuleɪt/"
+        },
+        {
+            "word": "ratify",
+            "meaning": "批准，认可",
+            "correct": "/ˈrætɪfaɪ/"
+        },
+        {
+            "word": "reconcile",
+            "meaning": "调停，调解，顺从",
+            "correct": "/ˈrekənsaɪl/"
+        },
+        {
+            "word": "rectify",
+            "meaning": "改正，修正，纠正",
+            "correct": "/ˈrektɪfaɪ/"
+        },
+        {
+            "word": "retain",
+            "meaning": "保持",
+            "correct": "/rɪˈteɪn/"
+        },
+        {
+            "word": "revisit",
+            "meaning": "再访，再议",
+            "correct": "/ˌriːˈvɪzɪt/"
+        },
+        {
+            "word": "streamline",
+            "meaning": "使现代化、流线，使合理化",
+            "correct": "/ˈstriːmlaɪn/"
+        },
+        {
+            "word": "undertake",
+            "meaning": "承担",
+            "correct": "/ˌʌndərˈteɪk/"
+        },
+        {
+            "word": "debug",
+            "meaning": "调试",
+            "correct": "/ˈdiːbʌɡ/"
+        },
+        {
+            "word": "implement",
+            "meaning": "实现，执行",
+            "correct": "/ˈɪmplɪment/"
+        },
+        {
+            "word": "inherit",
+            "meaning": "继承",
+            "correct": "/ɪnˈherɪt/"
+        },
+        {
+            "word": "aggregation",
+            "meaning": "聚合",
+            "correct": "/ˌæɡrɪˈɡeɪʃn/"
+        },
+        {
+            "word": "agility",
+            "meaning": "敏捷，灵活",
+            "correct": "/əˈdʒɪləti/"
+        },
+        {
+            "word": "amortization",
+            "meaning": "摊销",
+            "correct": "/ˌæmərtəˈzeɪʃn/"
+        },
+        {
+            "word": "analogy",
+            "meaning": "类比，比喻",
+            "correct": "/əˈnælədʒi/"
+        },
+        {
+            "word": "anomaly",
+            "meaning": "异常，反常事物",
+            "correct": "/əˈnɑːməli/"
+        },
+        {
+            "word": "architecture",
+            "meaning": "架构",
+            "correct": "/ˈɑːrkɪtektʃər/"
+        },
+        {
+            "word": "ascent",
+            "meaning": "上升，升序",
+            "correct": "/əˈsent/"
+        },
+        {
+            "word": "aspect",
+            "meaning": "方面，方向",
+            "correct": "/ˈæspekt/"
+        },
+        {
+            "word": "authentication",
+            "meaning": "身份验证",
+            "correct": "/ɔːˌθentɪˈkeɪʃn/"
+        },
+        {
+            "word": "authorization",
+            "meaning": "授权，认可",
+            "correct": "/ˌɔːθərəˈzeɪʃn/"
+        },
+        {
+            "word": "automation",
+            "meaning": "自动化",
+            "correct": "/ˌɔːtəˈmeɪʃn/"
+        },
+        {
+            "word": "bandwidth",
+            "meaning": "带宽，多余时间（人力）",
+            "correct": "/ˈbændwɪdθ/"
+        },
+        {
+            "word": "bogus",
+            "meaning": "假的，伪造",
+            "correct": "/ˈboʊɡəs/"
+        },
+        {
+            "word": "bottleneck",
+            "meaning": "瓶颈",
+            "correct": "/ˈbɑːtlnek/"
+        },
+        {
+            "word": "capacity",
+            "meaning": "能力、容量",
+            "correct": "/kəˈpæsəti/"
+        },
+        {
+            "word": "caveats",
+            "meaning": "注意事项",
+            "correct": "/ˈkæviæt/"
+        },
+        {
+            "word": "characteristic",
+            "meaning": "特征，特性",
+            "correct": "/ˌkærəktəˈrɪstɪk/"
+        },
+        {
+            "word": "cluster",
+            "meaning": "集群",
+            "correct": "/ˈklʌstər/"
+        },
+        {
+            "word": "complexity",
+            "meaning": "复杂性",
+            "correct": "/kəmˈpleksəti/"
+        },
+        {
+            "word": "compliance",
+            "meaning": "合规",
+            "correct": "/kəmˈplaɪəns/"
+        },
+        {
+            "word": "compromise",
+            "meaning": "泄漏，破解",
+            "correct": "/ˈkɑːmprəmaɪz/"
+        },
+        {
+            "word": "confidentiality",
+            "meaning": "保密性",
+            "correct": "/ˌkɑːnfɪˌdenʃiˈæləti/"
+        },
+        {
+            "word": "constant",
+            "meaning": "常数，恒量",
+            "correct": "/ˈkɑːnstənt/"
+        },
+        {
+            "word": "constraint",
+            "meaning": "约束",
+            "correct": "/kənˈstreɪnt/"
+        },
+        {
+            "word": "consumption",
+            "meaning": "消耗",
+            "correct": "/kənˈsʌmpʃn/"
+        },
+        {
+            "word": "contrast",
+            "meaning": "对比",
+            "correct": "/ˈkɑːntræst/"
+        },
+        {
+            "word": "degradation",
+            "meaning": "降级",
+            "correct": "/ˌdeɡrəˈdeɪʃn/"
+        },
+        {
+            "word": "delivery",
+            "meaning": "交付",
+            "correct": "/dɪˈlɪvəri/"
+        },
+        {
+            "word": "depreciation",
+            "meaning": "折旧，贬值",
+            "correct": "/dɪˌpriːʃiˈeɪʃn/"
+        },
+        {
+            "word": "descent",
+            "meaning": "下降，降序",
+            "correct": "/dɪˈsent/"
+        },
+        {
+            "word": "disclaimer",
+            "meaning": "免责声明",
+            "correct": "/dɪˈskleɪ.mɚ/"
+        },
+        {
+            "word": "distinction",
+            "meaning": "区别、差别",
+            "correct": "/dɪˈstɪŋkʃn/"
+        },
+        {
+            "word": "durability",
+            "meaning": "持久性，耐用性",
+            "correct": "/ˌdʊrəˈbɪləti/"
+        },
+        {
+            "word": "efficiency",
+            "meaning": "效率",
+            "correct": "/ɪˈfɪʃnsi/"
+        },
+        {
+            "word": "elasticity",
+            "meaning": "弹性，灵活性",
+            "correct": "/ˌiːlæˈstɪsəti/"
+        },
+        {
+            "word": "encryption",
+            "meaning": "加密",
+            "correct": "/ɪnˈkrɪpʃn/"
+        },
+        {
+            "word": "equivalent",
+            "meaning": "对等的人（或事物）；",
+            "correct": "/ɪˈkwɪvələnt/"
+        },
+        {
+            "word": "evaluation",
+            "meaning": "评价，计算",
+            "correct": "/ɪˌvæljuˈeɪʃn/"
+        },
+        {
+            "word": "evolution",
+            "meaning": "进化、演变",
+            "correct": "/ˌevəˈluːʃn/"
+        },
+        {
+            "word": "expenditure",
+            "meaning": "支出，经费",
+            "correct": "/ɪkˈspendɪtʃər/"
+        },
+        {
+            "word": "failback",
+            "meaning": "自动恢复",
+            "correct": "/null/"
+        },
+        {
+            "word": "failover",
+            "meaning": "失效转移",
+            "correct": "/feilˈəuvər/"
+        },
+        {
+            "word": "federation",
+            "meaning": "联合授权",
+            "correct": "/ˌfedəˈreɪʃn/"
+        },
+        {
+            "word": "glossary",
+            "meaning": "术语",
+            "correct": "/ˈɡlɑːsəri/"
+        },
+        {
+            "word": "homebrew",
+            "meaning": "自制程序",
+            "correct": "/ˌhoʊmˈbruː/"
+        },
+        {
+            "word": "hypervisor",
+            "meaning": "虚拟机器监视器（VMM）",
+            "correct": "/ˌhaipəˈvaizə/"
+        },
+        {
+            "word": "hypothesis",
+            "meaning": "假设",
+            "correct": "/haɪˈpɑːθəsɪs/"
+        },
+        {
+            "word": "impact",
+            "meaning": "绩效，影响",
+            "correct": "/ˈɪmpækt/"
+        },
+        {
+            "word": "impression",
+            "meaning": "曝光",
+            "correct": "/ɪmˈpreʃn/"
+        },
+        {
+            "word": "inception",
+            "meaning": "起始，创立",
+            "correct": "/ɪnˈsepʃn/"
+        },
+        {
+            "word": "incident",
+            "meaning": "事故",
+            "correct": "/ˈɪnsɪdənt/"
+        },
+        {
+            "word": "infrastructure",
+            "meaning": "基础设施",
+            "correct": "/ˈɪnfrəstrʌktʃər/"
+        },
+        {
+            "word": "initiative",
+            "meaning": "方案、倡议",
+            "correct": "/ɪˈnɪʃətɪv/"
+        },
+        {
+            "word": "integration",
+            "meaning": "集成，整合",
+            "correct": "/ˌɪntɪˈɡreɪʃn/"
+        },
+        {
+            "word": "integrity",
+            "meaning": "完整性",
+            "correct": "/ɪnˈteɡrəti/"
+        },
+        {
+            "word": "interaction",
+            "meaning": "交互、相互影响、干涉",
+            "correct": "/ˌɪntərˈækʃn/"
+        },
+        {
+            "word": "intervention",
+            "meaning": "介入、干涉",
+            "correct": "/ˌɪntərˈvenʃn/"
+        },
+        {
+            "word": "latency",
+            "meaning": "延迟",
+            "correct": "/ˈleɪtənsi/"
+        },
+        {
+            "word": "malware",
+            "meaning": "恶意软件",
+            "correct": "/ˈmælwer/"
+        },
+        {
+            "word": "mechanism",
+            "meaning": "机制，原理",
+            "correct": "/ˈmekənɪzəm/"
+        },
+        {
+            "word": "metrics",
+            "meaning": "数据指标",
+            "correct": "/ˈmetrɪks/"
+        },
+        {
+            "word": "model",
+            "meaning": "模型",
+            "correct": "/ˈmɑːdl/"
+        },
+        {
+            "word": "module",
+            "meaning": "模块",
+            "correct": "/ˈmɑːdʒuːl/"
+        },
+        {
+            "word": "notation",
+            "meaning": "注释、标注",
+            "correct": "/noʊˈteɪʃn/"
+        },
+        {
+            "word": "occasion",
+            "meaning": "场合、机会",
+            "correct": "/əˈkeɪʒn/"
+        },
+        {
+            "word": "optimization",
+            "meaning": "优化",
+            "correct": "/ˌɑptəmɪˈzeʃən/"
+        },
+        {
+            "word": "overhead",
+            "meaning": "额外开销，虚耗",
+            "correct": "/ˌovɚˈhɛd/"
+        },
+        {
+            "word": "oversight",
+            "meaning": "疏忽、失察",
+            "correct": "/ˈoʊvərsaɪt/"
+        },
+        {
+            "word": "permutation",
+            "meaning": "排序",
+            "correct": "/ˌpɜːrmjuˈteɪʃn/"
+        },
+        {
+            "word": "polyfill",
+            "meaning": "填充物",
+            "correct": "/ˈpəʊliːfɪl/"
+        },
+        {
+            "word": "post-mortem",
+            "meaning": "尸体解剖，事后反思（或剖析）",
+            "correct": "/ˌpoʊst ˈmɔːrtəm/"
+        },
+        {
+            "word": "priority",
+            "meaning": "优先次序",
+            "correct": "/praɪˈɔːrəti/"
+        },
+        {
+            "word": "privilege",
+            "meaning": "特权，优待",
+            "correct": "/ˈprɪvəlɪdʒ/"
+        },
+        {
+            "word": "protocol",
+            "meaning": "协议",
+            "correct": "/ˈproʊtəkɑːl/"
+        },
+        {
+            "word": "provision",
+            "meaning": "规定；预备；准备",
+            "correct": "/prəˈvɪʒn/"
+        },
+        {
+            "word": "recursion",
+            "meaning": "递归",
+            "correct": "/rɪˈkɜːrʒn/"
+        },
+        {
+            "word": "redundancy",
+            "meaning": "冗余，多余",
+            "correct": "/rɪˈdʌndənsi/"
+        },
+        {
+            "word": "reliability",
+            "meaning": "可靠性",
+            "correct": "/rɪˌlaɪəˈbɪləti/"
+        },
+        {
+            "word": "remediation",
+            "meaning": "补救，矫正",
+            "correct": "/rɪˌmiːdiˈeɪʃn/"
+        },
+        {
+            "word": "replica",
+            "meaning": "复制物",
+            "correct": "/ˈreplikə/"
+        },
+        {
+            "word": "resilience",
+            "meaning": "回弹性",
+            "correct": "/rɪˈzɪliəns/"
+        },
+        {
+            "word": "restriction",
+            "meaning": "限制，约束",
+            "correct": "/ri'strikʃən/"
+        },
+        {
+            "word": "scalability",
+            "meaning": "可扩展性",
+            "correct": "/ˌskeɪləˈbɪləti/"
+        },
+        {
+            "word": "scenario",
+            "meaning": "场景",
+            "correct": "/sɪˈnɛrɪˌo/"
+        },
+        {
+            "word": "scheduler",
+            "meaning": "时间调度程序",
+            "correct": "/ˈskedʒuːlər/"
+        },
+        {
+            "word": "schema",
+            "meaning": "提要，纲要，架构",
+            "correct": "/ˈskiːmə/"
+        },
+        {
+            "word": "scope",
+            "meaning": "范围，作用域",
+            "correct": "/skoʊp/"
+        },
+        {
+            "word": "severity",
+            "meaning": "严重性",
+            "correct": "/sɪˈverəti/"
+        },
+        {
+            "word": "strength",
+            "meaning": "优势",
+            "correct": "/streŋkθ/"
+        },
+        {
+            "word": "stroke",
+            "meaning": "笔画",
+            "correct": "/stroʊk/"
+        },
+        {
+            "word": "subsidiary",
+            "meaning": "子公司",
+            "correct": "/ˈsəbsɪdieri/"
+        },
+        {
+            "word": "takeaway",
+            "meaning": "收获、学到什么",
+            "correct": "/ˈteɪkəweɪ/"
+        },
+        {
+            "word": "taxonomy",
+            "meaning": "分类",
+            "correct": "/tækˈsɑːnəmi/"
+        },
+        {
+            "word": "tenancy",
+            "meaning": "租期",
+            "correct": "/ˈtenənsi/"
+        },
+        {
+            "word": "tentative",
+            "meaning": "假设，试验",
+            "correct": "/ˈtentətɪv/"
+        },
+        {
+            "word": "threshold",
+            "meaning": "阈值",
+            "correct": "/ˈθreʃhoʊld/"
+        },
+        {
+            "word": "throughput",
+            "meaning": "吞吐量",
+            "correct": "/ˈθruːpʊt/"
+        },
+        {
+            "word": "tolerance",
+            "meaning": "容忍",
+            "correct": "/ˈtɑːlərəns/"
+        },
+        {
+            "word": "traceability",
+            "meaning": "可追溯性",
+            "correct": "/ˌtresəˈbɪləti/"
+        },
+        {
+            "word": "trajectory",
+            "meaning": "轨道，轨迹",
+            "correct": "/trəˈdʒektəri/"
+        },
+        {
+            "word": "traversal",
+            "meaning": "遍历",
+            "correct": "/trəˈvərsəl/"
+        },
+        {
+            "word": "tweak",
+            "meaning": "扭，调整",
+            "correct": "/twiːk/"
+        },
+        {
+            "word": "utilization",
+            "meaning": "利用，使用",
+            "correct": "/ˌjuːtələˈzeɪʃn/"
+        },
+        {
+            "word": "vulnerability",
+            "meaning": "易损性，弱点",
+            "correct": "/ˌvʌlnərəˈbɪləti/"
+        },
+        {
+            "word": "workaround",
+            "meaning": "变通方案",
+            "correct": "/ˈwə:kə,raund/"
+        },
+        {
+            "word": "database",
+            "meaning": "数据库",
+            "correct": "/ˈdɑːtəbeɪs/"
+        },
+        {
+            "word": "expression",
+            "meaning": "表达式",
+            "correct": "/ɪkˈspreʃn/"
+        },
+        {
+            "word": "permission",
+            "meaning": "权限",
+            "correct": "/pəˈmɪʃn/"
+        },
+        {
+            "word": "alphabetically",
+            "meaning": "按字母顺序排列地",
+            "correct": "/ˌælfəˈbetɪkli/"
+        },
+        {
+            "word": "discretely",
+            "meaning": "离散地，分离地",
+            "correct": "/dɪˈskriːtli/"
+        },
+        {
+            "word": "furthermore",
+            "meaning": "此外，而且",
+            "correct": "/ˌfɜːrðərˈmɔːr/"
+        },
+        {
+            "word": "manually",
+            "meaning": "手动地",
+            "correct": "/ˈmænjuəli/"
+        },
+        {
+            "word": "periodically",
+            "meaning": "定期地，周期性地",
+            "correct": "/ˌpɪriˈɑːdɪkli/"
+        },
+        {
+            "word": "simultaneously",
+            "meaning": "同时地",
+            "correct": "/ˌsaɪmlˈteɪniəsli/"
+        },
+        {
+            "word": "ampersand",
+            "meaning": "和",
+            "correct": "/ˈæmpərsænd/"
+        },
+        {
+            "word": "angle brackets",
+            "meaning": "尖括号",
+            "correct": "/null/"
+        },
+        {
+            "word": "asterisk",
+            "meaning": "星号",
+            "correct": "/ˈæstərɪsk/"
+        },
+        {
+            "word": "at",
+            "meaning": "邮件符号",
+            "correct": "/æt/"
+        },
+        {
+            "word": "backslash",
+            "meaning": "反斜线",
+            "correct": "/ˈbækslæʃ/"
+        },
+        {
+            "word": "caret",
+            "meaning": "折音号",
+            "correct": "/ˈkærət/"
+        },
+        {
+            "word": "colon",
+            "meaning": "冒号",
+            "correct": "/ˈkoʊlən/"
+        },
+        {
+            "word": "comma",
+            "meaning": "逗号",
+            "correct": "/ˈkɑːmə/"
+        },
+        {
+            "word": "curly brackets",
+            "meaning": "花括号",
+            "correct": "/null/"
+        },
+        {
+            "word": "dash",
+            "meaning": "破折号",
+            "correct": "/dæʃ/"
+        },
+        {
+            "word": "dollar sign",
+            "meaning": "美元符号",
+            "correct": "/null/"
+        },
+        {
+            "word": "double quotation mark",
+            "meaning": "双引号",
+            "correct": "/null/"
+        },
+        {
+            "word": "downwards arrow",
+            "meaning": "向下箭头",
+            "correct": "/null/"
+        },
+        {
+            "word": "ellipsis",
+            "meaning": "省略号",
+            "correct": "/ɪˈlɪpsɪs/"
+        },
+        {
+            "word": "equal",
+            "meaning": "等于号",
+            "correct": "/ˈiːkwəl/"
+        },
+        {
+            "word": "exclamation mark",
+            "meaning": "惊叹号，感叹号",
+            "correct": "/ˌekskləˈmeɪʃn/"
+        },
+        {
+            "word": "greater than",
+            "meaning": "大于号",
+            "correct": "/null/"
+        },
+        {
+            "word": "hash",
+            "meaning": "井号",
+            "correct": "/hæʃ/"
+        },
+        {
+            "word": "hyphen",
+            "meaning": "连字符",
+            "correct": "/ˈhaɪfn/"
+        },
+        {
+            "word": "left arrow",
+            "meaning": "向左箭头",
+            "correct": "/null/"
+        },
+        {
+            "word": "less than",
+            "meaning": "小于号",
+            "correct": "/null/"
+        },
+        {
+            "word": "minus",
+            "meaning": "减号",
+            "correct": "/ˈmaɪnəs/"
+        },
+        {
+            "word": "parenthesis",
+            "meaning": "圆括号",
+            "correct": "/pəˈrenθəsɪs/"
+        },
+        {
+            "word": "percent",
+            "meaning": "百分号",
+            "correct": "/pərˈsent/"
+        },
+        {
+            "word": "period",
+            "meaning": "句号",
+            "correct": "/ˈpɪriəd/"
+        },
+        {
+            "word": "plus",
+            "meaning": "加号",
+            "correct": "/plʌs/"
+        },
+        {
+            "word": "question mark",
+            "meaning": "问号",
+            "correct": "/ˈkwestʃən/"
+        },
+        {
+            "word": "right arrow",
+            "meaning": "向右箭头",
+            "correct": "/null/"
+        },
+        {
+            "word": "section",
+            "meaning": "分节号",
+            "correct": "/ˈsekʃn/"
+        },
+        {
+            "word": "semicolon",
+            "meaning": "分号",
+            "correct": "/ˈsemikoʊlən/"
+        },
+        {
+            "word": "single quotation mark",
+            "meaning": "单引号",
+            "correct": "/null/"
+        },
+        {
+            "word": "slash",
+            "meaning": "斜线号",
+            "correct": "/slæʃ/"
+        },
+        {
+            "word": "square brackets",
+            "meaning": "方括号",
+            "correct": "/null/"
+        },
+        {
+            "word": "tilde",
+            "meaning": "波浪号",
+            "correct": "/ˈtɪldə/"
+        },
+        {
+            "word": "underscore",
+            "meaning": "下划线",
+            "correct": "/ˌʌndərˈskɔːr/"
+        },
+        {
+            "word": "upwards arrow",
+            "meaning": "向上箭头",
+            "correct": "/null/"
+        },
+        {
+            "word": "catastrophic failover",
+            "meaning": "灾难性故障转移",
+            "correct": "/null/"
+        },
+        {
+            "word": "data sovereignty",
+            "meaning": "数据主权",
+            "correct": "/null/"
+        },
+        {
+            "word": "dead letter queue",
+            "meaning": "死信队列",
+            "correct": "/null/"
+        },
+        {
+            "word": "faceted search",
+            "meaning": "分面搜索",
+            "correct": "/null/"
+        },
+        {
+            "word": "false positive",
+            "meaning": "假阳性",
+            "correct": "/null/"
+        },
+        {
+            "word": "fault tolerance",
+            "meaning": "",
+            "correct": "/null/"
+        },
+        {
+            "word": "magnetic storage",
+            "meaning": "磁储存",
+            "correct": "/null/"
+        },
+        {
+            "word": "roll off",
+            "meaning": "TBD",
+            "correct": "/null/"
+        },
+        {
+            "word": "roll out",
+            "meaning": "TBD",
+            "correct": "/null/"
+        },
+        {
+            "word": "strangler pattern",
+            "meaning": "绞杀者模式",
+            "correct": "/null/"
+        },
+        {
+            "word": "under the hood",
+            "meaning": "引擎罩下，比喻内幕、原理",
+            "correct": "/null/"
+        },
+        {
+            "word": "vice versa",
+            "meaning": "反之亦然",
+            "correct": "/ˌvaisi'və:sə/"
+        },
+        {
+            "word": "CLI",
+            "meaning": "命令行界面",
+            "correct": "/null/"
+        },
+        {
+            "word": "GUI",
+            "meaning": "图形用户界面",
+            "correct": "/null/"
+        },
+        {
+            "word": "UUID / GUID",
+            "meaning": "全局唯一标识符",
+            "correct": "/null/"
+        },
+        {
+            "word": "SIT",
+            "meaning": "系统整合测试",
+            "correct": "/null/"
+        },
+        {
+            "word": "UAT",
+            "meaning": "用户验收测试",
+            "correct": "/null/"
+        },
+        {
+            "word": "BIOS",
+            "meaning": "基本输入输出系统",
+            "correct": "/null/"
+        },
+        {
+            "word": "DOM",
+            "meaning": "文档对象模型",
+            "correct": "/null/"
+        },
+        {
+            "word": "HTML",
+            "meaning": "超文本标记语言",
+            "correct": "/null/"
+        }
+    ]
+}
