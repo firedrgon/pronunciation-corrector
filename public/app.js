@@ -41,20 +41,20 @@ async function init() {
   document.getElementById('whichVoice').value = whichVoice;
   repeatNumber = parseInt(localStorage.getItem('repeatNumber'));
   if (!repeatNumber) {
-    repeatNumber = 1;
+    repeatNumber = 2;
     localStorage.setItem('repeatNumber', repeatNumber);
   }
   document.getElementById("repeatNumber").value = repeatNumber;
   remainingRepeatNumber = repeatNumber;
   interval = parseInt(localStorage.getItem('interval'));
   if (!interval) {
-    interval = 100;
+    interval = 5000;
     localStorage.setItem('interval', interval);
   }
   document.getElementById("interval").value = interval;
   delay = parseInt(localStorage.getItem('delay'));
   if (!delay) {
-    delay = 0;
+    delay = 10000;
     localStorage.setItem('delay', delay);
   }
   document.getElementById("delay").value = delay;
